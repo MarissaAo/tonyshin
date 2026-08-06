@@ -130,7 +130,7 @@ ul {
 .photobox {
   position: relative;
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
 }
 
 .photobox img {
@@ -165,7 +165,7 @@ ul {
 
 .box2 {
   grid-area: box2;
-  aspect-ratio: auto; /* override */
+  aspect-ratio: auto;
 }
 
 #post-container {
@@ -213,6 +213,7 @@ ul {
   width: 100%;
   height: 500px;
   padding: 0;
+  position: relative;
 }
 
 .quote-content {
@@ -228,6 +229,25 @@ ul {
   font-weight: 700;
   color: rgba(35, 35, 35, 0.78);
 }
+
+.quote-content::before {
+  content: "“";
+  font-size: 150px;
+  color: #ddd;
+  display: block;
+  line-height: 1;
+  position: absolute;
+  left: 70px;
+  top: 70px;
+}
+
+/* .quote-content::after {
+  content: "”";
+  font-size: 90px;
+  color: #ddd;
+  display: block;
+  line-height: 1;
+} */
 
 /* #endregion wisdom section */
 
@@ -246,6 +266,12 @@ footer .brand {
   font-family: var(--font-family-brand);
   font-size: 18px;
   font-weight: 900;
+  margin: 0 0 5px 0;
+}
+
+footer .copy-right {
+  font-size: 14px;
+  font-weight: 400;
   margin: 0;
 }
 /* #endregion footer section */
