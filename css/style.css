@@ -273,12 +273,12 @@ ul {
   font-size: clamp(24px, 5vh, 40px);
   font-weight: 600;
   margin: 40px auto;
-  padding: 50px;
+  padding: 0 50px;
 }
 
 .description {
-  margin: 3px auto;
-  font-weight: 700;
+  padding: 0 50px;
+  text-align: center;
   color: rgba(35, 35, 35, 0.78);
 }
 
