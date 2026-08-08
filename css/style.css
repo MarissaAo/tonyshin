@@ -61,20 +61,47 @@ header {
 
 .menu-toggle {
   display: none;
-  height: 40px;
-  flex-direction: column;
+  width: 25px;
+  height: 25px;
   padding: 0;
   margin-right: 30px;
   border: none;
   background-color: transparent;
+  cursor: pointer;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu-toggle span {
   display: block;
-  margin: 7px;
   width: 25px;
   height: 2px;
   background-color: #000;
+  transition:
+    transform 0.3s ease,
+    opacity 0.3s ease;
+}
+
+.menu-toggle span:nth-child(1) {
+  transform: translateY(-7px);
+}
+
+.menu-toggle span:nth-child(3) {
+  transform: translateY(7px);
+}
+
+.menu-toggle.active span:nth-child(1) {
+  transform: translateY(2px) rotate(45deg);
+}
+
+.menu-toggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+  transform: translateY(-2px) rotate(-45deg);
 }
 
 #title {
@@ -248,7 +275,7 @@ ul {
 
 /* #endregion main section */
 
-/* #region wisdom section */
+/* #region quote section */
 
 .quote {
   display: flex;
@@ -293,7 +320,7 @@ ul {
   top: 50px;
 }
 
-/* #endregion wisdom section */
+/* #endregion quote section */
 
 /* #region footer section */
 footer {
