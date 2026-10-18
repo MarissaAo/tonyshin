@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tony Shin is a quiet photo journal of ordinary days, added from time to time.">
+  <meta name="theme-color" content="#f3efe6">
+  <title>Tony Shin</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="index.html">Tony Shin</a>
+    <nav class="nav" aria-label="Primary">
+      <ul>
+        <li><a href="index.html#frames" data-nav="frames">Frames</a></li>
+        <li><a href="about.html" data-nav="about">About</a></li>
+        <li><a href="contact.html" data-nav="contact">Contact</a></li>
+      </ul>
+    </nav>
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="menu" id="site-menu">
+      <ul>
+        <li><a href="index.html#frames" data-nav="frames">Frames</a></li>
+        <li><a href="about.html" data-nav="about">About</a></li>
+        <li><a href="contact.html" data-nav="contact">Contact</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero wrap">
+      <p class="kicker">A personal journal</p>
+      <h1>Day In Frame</h1>
+      <p class="lede">Life, a little at a time.</p>
+      <p class="day-count" id="day-count"></p>
+    </section>
+
+    <section class="wrap journal" id="frames" aria-label="Life moments">
+      <p class="status" id="journal-status">Opening the journal…</p>
+      <div id="journal"></div>
+    </section>
+
+    <section class="quote wrap" aria-labelledby="wisdom-label">
+      <p class="kicker" id="wisdom-label">A line to keep</p>
+      <p class="quote-content">If you love life, don't waste time, for time is what life is made up of.</p>
+      <p class="quote-author">Bruce Lee</p>
+      <button class="quote-next" type="button">Another line</button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="brand">Tony Shin</p>
+    <p>A journal of ordinary days.</p>
+    <p>&copy; 2026 Tony Shin</p>
+  </footer>
+  <script src="js/site.js"></script>
+</body>
+</html>

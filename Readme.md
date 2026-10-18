@@ -1,37 +1,21 @@
 # Tony Shin
 
-A personal photo journal website that captures life moments through photographs.
+A personal journal for ordinary days. Photographs and a short clip, added from time to time.
 
-## About
+## Pages
 
-**Tony Shin** is a personal photo journal designed to collect and display photos and memories in a clean, minimal layout.
+- Home shows the newest day first, then the earlier ones
+- Each day opens on its own page
+- About explains the journal
+- Contact copies a note so it can be sent by hand
 
-The first version of the website focuses on building the basic structure and visual design with HTML and CSS, with JavaScript used for interactive functionality.
+## Add a day
 
-## Features
+1. Put the photo in `assets/image/YYYYMMDD/`.
+2. Add an entry to the top of `data/posts.json` with a date, title, short summary, image, and a paragraph or two.
+3. For a clip, add a browser-friendly `.mp4` and set `video` on that entry. The home page will mark it with Play.
 
-- Responsive photo grid layout
-- Photo posts with dates and subjects
-- Navigation bar
-- Responsive design for different screen sizes
-- Interactive menu
-- Random quote feature
-
-## Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Future Improvements
-
-- Add more photo posts
-- Add a photo search/filter by date
-- Improve responsive design
-- Add an About page
-- Add a Contact page
-- Improve photo gallery and individual post pages
-- Store post information using JSON or a database in the future
+The site is plain HTML, CSS, and JavaScript. Open it from a local static server so the journal list can load.
 
 ## Author
 
