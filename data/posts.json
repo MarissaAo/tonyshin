@@ -1,0 +1,87 @@
+[
+  {
+    "id": "20260801",
+    "date": "2026-08-01",
+    "title": "Hot",
+    "summary": "A hot afternoon, and a red bucket that would not stay empty.",
+    "image": "assets/image/20260801/20260801_cover.JPG",
+    "alt": "A red bucket filled with freshly harvested potatoes, sitting on bare soil.",
+    "width": 1920,
+    "height": 2560,
+    "body": [
+      "The sun stayed put. Potatoes came up warm, skins dusty, and the red bucket filled until the handle pressed into the hand.",
+      "Nothing about the day was arranged for a picture. The bucket got heavy, the row got shorter, and that was enough to keep."
+    ]
+  },
+  {
+    "id": "20260731",
+    "date": "2026-07-31",
+    "title": "Rinsing",
+    "summary": "A short clip of hands, water, and what the day brought in.",
+    "image": "assets/image/20260731/20260731_cover.jpg",
+    "alt": "Hands rinsing a green vegetable under running water in a metal bowl.",
+    "width": 752,
+    "height": 720,
+    "video": "assets/video/20260731-web.mp4",
+    "body": [
+      "Before the cooking, there is this. Cold water, a metal bowl, and the small work of rinsing what came in from outside.",
+      "The clip is only a few seconds long. The day around it was ordinary, which is why it belongs here."
+    ]
+  },
+  {
+    "id": "20260718",
+    "date": "2026-07-18",
+    "title": "Special Kimchi",
+    "summary": "Two jars packed and set aside, waiting on time.",
+    "image": "assets/image/20260718/20260718_cover.JPG",
+    "alt": "Two glass jars of red kimchi standing side by side.",
+    "width": 1920,
+    "height": 2560,
+    "body": [
+      "Kimchi is mostly patience. The cabbage is cut, salted, and packed, then the jars sit where the light is soft.",
+      "These two were the special batch. Lids tight. A note to open them slowly."
+    ]
+  },
+  {
+    "id": "20260628",
+    "date": "2026-06-28",
+    "title": "Potato Harvest",
+    "summary": "A basket of potatoes, still wearing the field.",
+    "image": "assets/image/20260628/20260628_cover.JPG",
+    "alt": "A wicker basket filled with unwashed potatoes.",
+    "width": 2100,
+    "height": 1920,
+    "body": [
+      "The basket came in with soil still caught in the weave. Some potatoes were smooth, some knotted, all of them just dug.",
+      "Harvest days are mostly carrying and sorting. The photograph is the quiet part at the end."
+    ]
+  },
+  {
+    "id": "20260613",
+    "date": "2026-06-13",
+    "title": "Happy Farming",
+    "summary": "A good day in the rows, with a handful of new potatoes.",
+    "image": "assets/image/20260613/20260613_cover.JPG",
+    "alt": "A person in a cap holding freshly dug potatoes in a garden.",
+    "width": 1920,
+    "height": 2042,
+    "body": [
+      "Not every day outside is an easy one. This one was. The plants were up, the light was kind, and there was enough in hand to feel the season moving.",
+      "Happy farming, on this page, is one particular afternoon that went well."
+    ]
+  },
+  {
+    "id": "20260531",
+    "date": "2026-05-31",
+    "title": "Late May",
+    "summary": "Potatoes in from the field, at the end of the month.",
+    "image": "assets/image/20260531/20260531_cover.JPG",
+    "alt": "Potatoes from the field, soil still on them.",
+    "width": 2002,
+    "height": 1920,
+    "body": [
+      "The last day of May, and the potatoes were already coming in. Soil still on them. The season had started in earnest.",
+      "This is the earliest frame in the journal."
+    ]
+  }
+]

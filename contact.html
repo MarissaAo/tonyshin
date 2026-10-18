@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Leave a note for Tony Shin. The journal keeps no mailbox of its own.">
+  <meta name="theme-color" content="#f3efe6">
+  <title>Contact · Tony Shin</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="contact">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="index.html">Tony Shin</a>
+    <nav class="nav" aria-label="Primary">
+      <ul>
+        <li><a href="index.html#frames" data-nav="frames">Frames</a></li>
+        <li><a href="about.html" data-nav="about">About</a></li>
+        <li><a href="contact.html" data-nav="contact">Contact</a></li>
+      </ul>
+    </nav>
+    <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="menu" id="site-menu">
+      <ul>
+        <li><a href="index.html#frames" data-nav="frames">Frames</a></li>
+        <li><a href="about.html" data-nav="about">About</a></li>
+        <li><a href="contact.html" data-nav="contact">Contact</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main id="main" class="page wrap narrow">
+    <p class="kicker">Contact</p>
+    <h1 class="page-title">A note, if you like</h1>
+    <div class="prose">
+      <p>This journal does not keep a mailbox. Write a few words here and copy them, then send them the way you already reach Tony.</p>
+    </div>
+    <form class="note-form" id="note-form">
+      <label>
+        Your name
+        <input type="text" name="name" autocomplete="name" maxlength="80">
+      </label>
+      <label>
+        Note
+        <textarea name="message" required maxlength="600" placeholder="A hello, or a day you remember."></textarea>
+      </label>
+      <button class="button" type="submit">Copy note</button>
+      <p class="note-status" id="note-status" role="status"></p>
+      <pre class="note-preview" id="note-preview" hidden></pre>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <p class="brand">Tony Shin</p>
+    <p>A journal of ordinary days.</p>
+    <p>&copy; 2026 Tony Shin</p>
+  </footer>
+  <script src="js/site.js"></script>
+</body>
+</html>
