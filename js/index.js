@@ -8,10 +8,9 @@ async function getPost() {
   const posts = await res.json();
 
   const fivePost = posts.slice(0, 5);
+  const postContainer = document.querySelector("#post-container");
 
   fivePost.forEach(function (post, index) {
-    const postContainer = document.querySelector("#post-container");
-
     const div = document.createElement("div");
     div.classList.add("photobox", `box${index + 1}`);
 
@@ -35,12 +34,6 @@ async function getPost() {
 }
 
 getPost();
-
-// <div class="photobox box1">
-//     <img src="/assets/image/20260801/20260801_cover.JPG" alt="Hot Weather">
-//     <div class="date">01 Aug 2026</div>
-//     <div class="subject">Hot</div>
-// </div>
 
 const toggleMenu = () => {
   menu.classList.toggle("active");

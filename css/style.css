@@ -235,11 +235,6 @@ ul {
   visibility: hidden;
 }
 
-.box2 {
-  grid-area: box2;
-  aspect-ratio: auto;
-}
-
 #post-container {
   margin: 0 30px;
   display: grid;
@@ -259,6 +254,7 @@ ul {
 
 .box2 {
   grid-area: box2;
+  aspect-ratio: auto;
 }
 
 .box3 {
