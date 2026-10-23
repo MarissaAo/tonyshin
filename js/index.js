@@ -14,6 +14,9 @@ async function getPost() {
     const div = document.createElement("div");
     div.classList.add("photobox", `box${index + 1}`);
 
+    const link = document.createElement("a");
+    link.setAttribute("href", `post.html?id=${post.id}`);
+
     const img = document.createElement("img");
     img.setAttribute("src", post.cover);
     img.setAttribute("alt", post.title);
@@ -27,12 +30,12 @@ async function getPost() {
     subject.textContent = post.title;
 
     postContainer.appendChild(div);
-    div.appendChild(img);
+    div.appendChild(link);
+    link.appendChild(img);
     div.appendChild(date);
     div.appendChild(subject);
   });
 }
-
 getPost();
 
 const toggleMenu = () => {
