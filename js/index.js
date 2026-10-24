@@ -16,6 +16,7 @@ async function getPost() {
 
     const link = document.createElement("a");
     link.setAttribute("href", `post.html?id=${post.id}`);
+    // link.setAttribute("target", "_blank");
 
     const img = document.createElement("img");
     img.setAttribute("src", post.cover);

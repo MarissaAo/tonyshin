@@ -235,7 +235,7 @@ ul {
   visibility: hidden;
 }
 
-#post-container {
+.post {
   margin: 0 30px;
   display: grid;
   gap: 1rem;
@@ -357,7 +357,7 @@ footer .copy-right {
     display: flex;
   }
 
-  #post-container {
+  .post {
     grid-template-areas:
       "box1"
       "box2"
