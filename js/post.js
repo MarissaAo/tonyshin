@@ -21,12 +21,18 @@ async function getPostDetail() {
     postContainer.appendChild(postTitle);
     postContainer.appendChild(postDate);
 
+    const photoGallery = document.createElement("div");
+    photoGallery.classList.add("photo-gallery");
+
+    postContainer.appendChild(photoGallery);
+
     currentPost.photos.forEach(function (photo) {
       const img = document.createElement("img");
+      img.classList.add("dailyPhoto");
       img.setAttribute("src", photo);
       img.setAttribute("alt", currentPost.title);
 
-      postContainer.appendChild(img);
+      photoGallery.appendChild(img);
     });
   } catch (error) {
     console.error("Failed to load post details:", error);
