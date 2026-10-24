@@ -12,6 +12,14 @@ async function getPostDetail() {
 
     const postContainer = document.querySelector("#post-detail");
 
+    if (!currentPost) {
+      const errorMessage = document.createElement("h2");
+      errorMessage.textContent = "Sorry! This post was not found.";
+      postContainer.appendChild(errorMessage);
+
+      return;
+    }
+
     const postTitle = document.createElement("h2");
     postTitle.textContent = currentPost.title;
 
@@ -28,7 +36,6 @@ async function getPostDetail() {
 
     currentPost.photos.forEach(function (photo) {
       const img = document.createElement("img");
-      img.classList.add("dailyPhoto");
       img.setAttribute("src", photo);
       img.setAttribute("alt", currentPost.title);
 
