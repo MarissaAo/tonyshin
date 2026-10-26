@@ -3,20 +3,13 @@ const menu = document.querySelector(".menu");
 
 const quoteContent = document.querySelector(".quote-content");
 
-async function getPost() {
-  const res = await fetch("/data/posts.json");
-  const posts = await res.json();
-
-  const fivePost = posts.slice(0, 5);
-  const postContainer = document.querySelector("#post-container");
-
-  fivePost.forEach(function (post, index) {
+function renderGrid(postList, container) {
+  postList.forEach(function (post, index) {
     const div = document.createElement("div");
     div.classList.add("photobox", `box${index + 1}`);
 
     const link = document.createElement("a");
     link.setAttribute("href", `post.html?id=${post.id}`);
-    // link.setAttribute("target", "_blank");
 
     const img = document.createElement("img");
     img.setAttribute("src", post.cover);
@@ -30,13 +23,28 @@ async function getPost() {
     subject.classList.add("subject");
     subject.textContent = post.title;
 
-    postContainer.appendChild(div);
+    container.appendChild(div);
     div.appendChild(link);
     link.appendChild(img);
     div.appendChild(date);
     div.appendChild(subject);
   });
 }
+
+async function getPost() {
+  const res = await fetch("/data/posts.json");
+  const posts = await res.json();
+
+  const fivePost = posts.slice(0, 5);
+  const postContainer = document.querySelector("#post-container");
+
+  renderGrid(fivePost, postContainer);
+
+  const oldPost = document.querySelector(".old-post");
+  const oldPosts = posts.slice(5);
+  renderGrid(oldPosts, oldPost);
+}
+
 getPost();
 
 const toggleMenu = () => {
