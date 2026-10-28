@@ -76,16 +76,18 @@ async function getQuote() {
 getQuote();
 
 async function showBanner() {
-  const res = await fetch("/data/image.json");
-  const banner = await res.json();
+  const response = await fetch("/data/image.json");
+  const images = await response.json();
 
-  const randomBanner = Math.floor(Math.random() * banner.length);
-  const showRandomBanner = banner[randomBanner];
+  function pickOne() {
+    const i = Math.floor(Math.random() * images.length);
+    const img = document.querySelector(".banner img");
+    img.setAttribute("src", images[i].source);
+    img.setAttribute("alt", images[i].title);
+  }
 
-  const img = document.querySelector(".banner img");
-  img.setAttribute("src", showRandomBanner.source);
-  img.setAttribute("alt", showRandomBanner.title);
+  pickOne();
+  setInterval(pickOne, 1500);
 }
 
 showBanner();
-setInterval(showBanner, 3000);
