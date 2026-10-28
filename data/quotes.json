@@ -38,5 +38,1790 @@
     "id": 8,
     "author": "Bruce Lee",
     "quote": "To hell with circumstances; I create opportunities."
+  },
+  {
+    "id": 9,
+    "author": "Bruce Lee",
+    "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
+  },
+  {
+    "id": 10,
+    "author": "Bruce Lee",
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one."
+  },
+  {
+    "id": 11,
+    "author": "Bruce Lee",
+    "quote": "Empty your mind, be formless, shapeless, like water."
+  },
+  {
+    "id": 12,
+    "author": "Bruce Lee",
+    "quote": "Simplicity is the key to brilliance."
+  },
+  {
+    "id": 13,
+    "author": "Bruce Lee",
+    "quote": "Long-term consistency trumps short-term intensity."
+  },
+  {
+    "id": 14,
+    "author": "Bruce Lee",
+    "quote": "As you think, so shall you become."
+  },
+  {
+    "id": 15,
+    "author": "Bruce Lee",
+    "quote": "Use no way as way, have no limitation as limitation."
+  },
+  {
+    "id": 16,
+    "author": "Bruce Lee",
+    "quote": "Real living is living for others."
+  },
+  {
+    "id": 17,
+    "author": "Bruce Lee",
+    "quote": "Defeat is a state of mind; no one is ever defeated until defeat has been accepted as a reality."
+  },
+  {
+    "id": 18,
+    "author": "Bruce Lee",
+    "quote": "The key to immortality is first living a life worth remembering."
+  },
+  {
+    "id": 19,
+    "author": "Bruce Lee",
+    "quote": "If you always put limits on everything you do, physical or anything else, it will spread into your work and into your life. There are no limits."
+  },
+  {
+    "id": 20,
+    "author": "Bruce Lee",
+    "quote": "Showing off is the fool's idea of glory."
+  },
+  {
+    "id": 21,
+    "author": "Bruce Lee",
+    "quote": "I'm not in this world to live up to your expectations and you're not in this world to live up to mine."
+  },
+  {
+    "id": 22,
+    "author": "Bruce Lee",
+    "quote": "Always be yourself, express yourself, have faith in yourself."
+  },
+  {
+    "id": 23,
+    "author": "Bruce Lee",
+    "quote": "Don't think. Feel."
+  },
+  {
+    "id": 24,
+    "author": "Bruce Lee",
+    "quote": "It's not the daily increase but daily decrease. Hack away at the unessential."
+  },
+  {
+    "id": 25,
+    "author": "Bruce Lee",
+    "quote": "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind."
+  },
+  {
+    "id": 26,
+    "author": "Bruce Lee",
+    "quote": "Obey the principles without being bound by them."
+  },
+  {
+    "id": 27,
+    "author": "Bruce Lee",
+    "quote": "The less effort, the faster and more powerful you will be."
+  },
+  {
+    "id": 28,
+    "author": "Bruce Lee",
+    "quote": "Learning is never cumulative; it is a movement of knowing which has no beginning and no end."
+  },
+  {
+    "id": 29,
+    "author": "Bruce Lee",
+    "quote": "Life itself is your teacher, and you are in a state of constant learning."
+  },
+  {
+    "id": 30,
+    "author": "Bruce Lee",
+    "quote": "Be like water making its way through cracks."
+  },
+  {
+    "id": 31,
+    "author": "Bruce Lee",
+    "quote": "Choose the positive. You have choice, you are master of your attitude."
+  },
+  {
+    "id": 32,
+    "author": "Bruce Lee",
+    "quote": "Take things as they are. Punch when you have to punch. Kick when you have to kick."
+  },
+  {
+    "id": 33,
+    "author": "Bruce Lee",
+    "quote": "Ever since I was a child I have had this instinctive urge for expansion and growth."
+  },
+  {
+    "id": 34,
+    "author": "Bruce Lee",
+    "quote": "A quick temper will make a fool of you soon enough."
+  },
+  {
+    "id": 35,
+    "author": "Bruce Lee",
+    "quote": "Knowledge will give you power, but character respect."
+  },
+  {
+    "id": 36,
+    "author": "Bruce Lee",
+    "quote": "Do not allow negative thoughts to enter your mind for they are the weeds that strangle confidence."
+  },
+  {
+    "id": 37,
+    "author": "Bruce Lee",
+    "quote": "I'm not a teacher, I am but a signpost to a traveler."
+  },
+  {
+    "id": 38,
+    "author": "Bruce Lee",
+    "quote": "Adapt what is useful, reject what is useless, and add what is specifically your own."
+  },
+  {
+    "id": 39,
+    "author": "Bruce Lee",
+    "quote": "Research your own experience."
+  },
+  {
+    "id": 40,
+    "author": "Bruce Lee",
+    "quote": "There are no limits. There are only plateaus, and you must not stay there, you must go beyond them."
+  },
+  {
+    "id": 41,
+    "author": "Bruce Lee",
+    "quote": "The more we value things, the less we value ourselves."
+  },
+  {
+    "id": 42,
+    "author": "Bruce Lee",
+    "quote": "Under the right circumstances, I can do anything."
+  },
+  {
+    "id": 43,
+    "author": "Bruce Lee",
+    "quote": "Pessimism blunts the tools you need to succeed."
+  },
+  {
+    "id": 44,
+    "author": "Bruce Lee",
+    "quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer."
+  },
+  {
+    "id": 45,
+    "author": "Bruce Lee",
+    "quote": "Be happy, but never satisfied."
+  },
+  {
+    "id": 46,
+    "author": "Bruce Lee",
+    "quote": "Self-knowledge is the basis of Jeet Kune Do."
+  },
+  {
+    "id": 47,
+    "author": "Bruce Lee",
+    "quote": "The doubters said, man can not fly. The doers said, maybe, but we'll try."
+  },
+  {
+    "id": 48,
+    "author": "Bruce Lee",
+    "quote": "In every passionate pursuit, the pursuit counts more than the object pursued."
+  },
+  {
+    "id": 49,
+    "author": "Bruce Lee",
+    "quote": "Man, the living creature, the creating individual, is always more important than any established style or system."
+  },
+  {
+    "id": 50,
+    "author": "Bruce Lee",
+    "quote": "The possession of anything begins in the mind."
+  },
+  {
+    "id": 51,
+    "author": "Seneca",
+    "quote": "Luck is what happens when preparation meets opportunity."
+  },
+  {
+    "id": 52,
+    "author": "Seneca",
+    "quote": "While we are postponing, life speeds by."
+  },
+  {
+    "id": 53,
+    "author": "Seneca",
+    "quote": "Difficulties strengthen the mind, as labor does the body."
+  },
+  {
+    "id": 54,
+    "author": "Seneca",
+    "quote": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."
+  },
+  {
+    "id": 55,
+    "author": "Seneca",
+    "quote": "We suffer more often in imagination than in reality."
+  },
+  {
+    "id": 56,
+    "author": "Seneca",
+    "quote": "Begin at once to live, and count each separate day as a separate life."
+  },
+  {
+    "id": 57,
+    "author": "Seneca",
+    "quote": "No man was ever wise by chance."
+  },
+  {
+    "id": 58,
+    "author": "Seneca",
+    "quote": "If a man knows not to which port he sails, no wind is favorable."
+  },
+  {
+    "id": 59,
+    "author": "Seneca",
+    "quote": "As long as you live, keep learning how to live."
+  },
+  {
+    "id": 60,
+    "author": "Seneca",
+    "quote": "He who is brave is free."
+  },
+  {
+    "id": 61,
+    "author": "Seneca",
+    "quote": "Every new beginning comes from some other beginning's end."
+  },
+  {
+    "id": 62,
+    "author": "Seneca",
+    "quote": "A gem cannot be polished without friction, nor a man perfected without trials."
+  },
+  {
+    "id": 63,
+    "author": "Seneca",
+    "quote": "Hang on to your youthful enthusiasms; you'll be able to use them better when you're older."
+  },
+  {
+    "id": 64,
+    "author": "Seneca",
+    "quote": "Most powerful is he who has himself in his own power."
+  },
+  {
+    "id": 65,
+    "author": "Seneca",
+    "quote": "It is the power of the mind to be unconquerable."
+  },
+  {
+    "id": 66,
+    "author": "Epictetus",
+    "quote": "First say to yourself what you would be; and then do what you have to do."
+  },
+  {
+    "id": 67,
+    "author": "Epictetus",
+    "quote": "No great thing is created suddenly."
+  },
+  {
+    "id": 68,
+    "author": "Epictetus",
+    "quote": "It's not what happens to you, but how you react to it that matters."
+  },
+  {
+    "id": 69,
+    "author": "Epictetus",
+    "quote": "Don't explain your philosophy. Embody it."
+  },
+  {
+    "id": 70,
+    "author": "Epictetus",
+    "quote": "Wealth consists not in having great possessions, but in having few wants."
+  },
+  {
+    "id": 71,
+    "author": "Epictetus",
+    "quote": "No man is free who is not master of himself."
+  },
+  {
+    "id": 72,
+    "author": "Epictetus",
+    "quote": "Make the best use of what is in your power, and take the rest as it happens."
+  },
+  {
+    "id": 73,
+    "author": "Epictetus",
+    "quote": "If you want to improve, be content to be thought foolish and stupid."
+  },
+  {
+    "id": 74,
+    "author": "Epictetus",
+    "quote": "Circumstances don't make the man, they only reveal him to himself."
+  },
+  {
+    "id": 75,
+    "author": "Epictetus",
+    "quote": "Only the educated are free."
+  },
+  {
+    "id": 76,
+    "author": "Epictetus",
+    "quote": "Freedom is the only worthy goal in life."
+  },
+  {
+    "id": 77,
+    "author": "Epictetus",
+    "quote": "We have two ears and one mouth so that we can listen twice as much as we speak."
+  },
+  {
+    "id": 78,
+    "author": "Marcus Aurelius",
+    "quote": "Waste no more time arguing about what a good man should be. Be one."
+  },
+  {
+    "id": 79,
+    "author": "Marcus Aurelius",
+    "quote": "The impediment to action advances action. What stands in the way becomes the way."
+  },
+  {
+    "id": 80,
+    "author": "Marcus Aurelius",
+    "quote": "You have power over your mind, not outside events. Realize this, and you will find strength."
+  },
+  {
+    "id": 81,
+    "author": "Marcus Aurelius",
+    "quote": "The happiness of your life depends upon the quality of your thoughts."
+  },
+  {
+    "id": 82,
+    "author": "Marcus Aurelius",
+    "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
+  },
+  {
+    "id": 83,
+    "author": "Marcus Aurelius",
+    "quote": "If it is not right, do not do it; if it is not true, do not say it."
+  },
+  {
+    "id": 84,
+    "author": "Marcus Aurelius",
+    "quote": "Do every act of your life as though it were the very last act of your life."
+  },
+  {
+    "id": 85,
+    "author": "Marcus Aurelius",
+    "quote": "Our life is what our thoughts make it."
+  },
+  {
+    "id": 86,
+    "author": "Marcus Aurelius",
+    "quote": "The best revenge is not to be like your enemy."
+  },
+  {
+    "id": 87,
+    "author": "Marcus Aurelius",
+    "quote": "Confine yourself to the present."
+  },
+  {
+    "id": 88,
+    "author": "Marcus Aurelius",
+    "quote": "When you arise in the morning, think of what a precious privilege it is to be alive."
+  },
+  {
+    "id": 89,
+    "author": "Marcus Aurelius",
+    "quote": "Accept the things to which fate binds you."
+  },
+  {
+    "id": 90,
+    "author": "Marcus Aurelius",
+    "quote": "Dwell on the beauty of life. Watch the stars, and see yourself running with them."
+  },
+  {
+    "id": 91,
+    "author": "Marcus Aurelius",
+    "quote": "Loss is nothing else but change, and change is Nature's delight."
+  },
+  {
+    "id": 92,
+    "author": "Confucius",
+    "quote": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "id": 93,
+    "author": "Confucius",
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall."
+  },
+  {
+    "id": 94,
+    "author": "Confucius",
+    "quote": "The man who moves a mountain begins by carrying away small stones."
+  },
+  {
+    "id": 95,
+    "author": "Confucius",
+    "quote": "Real knowledge is to know the extent of one's ignorance."
+  },
+  {
+    "id": 96,
+    "author": "Confucius",
+    "quote": "The superior man is modest in his speech, but exceeds in his actions."
+  },
+  {
+    "id": 97,
+    "author": "Confucius",
+    "quote": "Choose a job you love, and you will never have to work a day in your life."
+  },
+  {
+    "id": 98,
+    "author": "Confucius",
+    "quote": "I hear and I forget. I see and I remember. I do and I understand."
+  },
+  {
+    "id": 99,
+    "author": "Confucius",
+    "quote": "He who learns but does not think is lost. He who thinks but does not learn is in great danger."
+  },
+  {
+    "id": 100,
+    "author": "Confucius",
+    "quote": "The will to win, the desire to succeed, the urge to reach your full potential: these are the keys that will unlock the door to personal excellence."
+  },
+  {
+    "id": 101,
+    "author": "Confucius",
+    "quote": "Everything has beauty, but not everyone sees it."
+  },
+  {
+    "id": 102,
+    "author": "Confucius",
+    "quote": "Wherever you go, go with all your heart."
+  },
+  {
+    "id": 103,
+    "author": "Confucius",
+    "quote": "To see what is right and not do it is a lack of courage."
+  },
+  {
+    "id": 104,
+    "author": "Confucius",
+    "quote": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."
+  },
+  {
+    "id": 105,
+    "author": "Lao Tzu",
+    "quote": "A journey of a thousand miles begins with a single step."
+  },
+  {
+    "id": 106,
+    "author": "Lao Tzu",
+    "quote": "Nothing is softer or more flexible than water, yet nothing can resist it."
+  },
+  {
+    "id": 107,
+    "author": "Lao Tzu",
+    "quote": "Knowing others is intelligence; knowing yourself is true wisdom."
+  },
+  {
+    "id": 108,
+    "author": "Lao Tzu",
+    "quote": "Mastering others is strength; mastering yourself is true power."
+  },
+  {
+    "id": 109,
+    "author": "Lao Tzu",
+    "quote": "Nature does not hurry, yet everything is accomplished."
+  },
+  {
+    "id": 110,
+    "author": "Lao Tzu",
+    "quote": "When I let go of what I am, I become what I might be."
+  },
+  {
+    "id": 111,
+    "author": "Lao Tzu",
+    "quote": "The best fighter is never angry."
+  },
+  {
+    "id": 112,
+    "author": "Lao Tzu",
+    "quote": "Act without expectation."
+  },
+  {
+    "id": 113,
+    "author": "Lao Tzu",
+    "quote": "Do the difficult things while they are easy and do the great things while they are small."
+  },
+  {
+    "id": 114,
+    "author": "Lao Tzu",
+    "quote": "He who conquers himself is the mightiest warrior."
+  },
+  {
+    "id": 115,
+    "author": "Lao Tzu",
+    "quote": "Life is a series of natural and spontaneous changes. Don't resist them."
+  },
+  {
+    "id": 116,
+    "author": "Lao Tzu",
+    "quote": "Silence is a source of great strength."
+  },
+  {
+    "id": 117,
+    "author": "Aristotle",
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+  },
+  {
+    "id": 118,
+    "author": "Aristotle",
+    "quote": "Knowing yourself is the beginning of all wisdom."
+  },
+  {
+    "id": 119,
+    "author": "Aristotle",
+    "quote": "Quality is not an act, it is a habit."
+  },
+  {
+    "id": 120,
+    "author": "Aristotle",
+    "quote": "Pleasure in the job puts perfection in the work."
+  },
+  {
+    "id": 121,
+    "author": "Aristotle",
+    "quote": "For the things we have to learn before we can do them, we learn by doing them."
+  },
+  {
+    "id": 122,
+    "author": "Aristotle",
+    "quote": "Patience is bitter, but its fruit is sweet."
+  },
+  {
+    "id": 123,
+    "author": "Aristotle",
+    "quote": "I count him braver who overcomes his desires than him who conquers his enemies."
+  },
+  {
+    "id": 124,
+    "author": "Aristotle",
+    "quote": "Well begun is half done."
+  },
+  {
+    "id": 125,
+    "author": "Theodore Roosevelt",
+    "quote": "Do what you can, with what you have, where you are."
+  },
+  {
+    "id": 126,
+    "author": "Theodore Roosevelt",
+    "quote": "Believe you can and you're halfway there."
+  },
+  {
+    "id": 127,
+    "author": "Theodore Roosevelt",
+    "quote": "It is not the critic who counts; the credit belongs to the man who is actually in the arena."
+  },
+  {
+    "id": 128,
+    "author": "Theodore Roosevelt",
+    "quote": "Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty."
+  },
+  {
+    "id": 129,
+    "author": "Theodore Roosevelt",
+    "quote": "In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."
+  },
+  {
+    "id": 130,
+    "author": "Theodore Roosevelt",
+    "quote": "Comparison is the thief of joy."
+  },
+  {
+    "id": 131,
+    "author": "Theodore Roosevelt",
+    "quote": "Keep your eyes on the stars, and your feet on the ground."
+  },
+  {
+    "id": 132,
+    "author": "Theodore Roosevelt",
+    "quote": "The only man who never makes a mistake is the man who never does anything."
+  },
+  {
+    "id": 133,
+    "author": "Theodore Roosevelt",
+    "quote": "Courage is not having the strength to go on; it is going on when you don't have the strength."
+  },
+  {
+    "id": 134,
+    "author": "Muhammad Ali",
+    "quote": "Don't count the days, make the days count."
+  },
+  {
+    "id": 135,
+    "author": "Muhammad Ali",
+    "quote": "I hated every minute of training, but I said, don't quit. Suffer now and live the rest of your life as a champion."
+  },
+  {
+    "id": 136,
+    "author": "Muhammad Ali",
+    "quote": "Float like a butterfly, sting like a bee."
+  },
+  {
+    "id": 137,
+    "author": "Muhammad Ali",
+    "quote": "He who is not courageous enough to take risks will accomplish nothing in life."
+  },
+  {
+    "id": 138,
+    "author": "Muhammad Ali",
+    "quote": "Impossible is not a fact. It's an opinion."
+  },
+  {
+    "id": 139,
+    "author": "Muhammad Ali",
+    "quote": "It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen."
+  },
+  {
+    "id": 140,
+    "author": "Muhammad Ali",
+    "quote": "Champions are made from something they have deep inside them: a desire, a dream, a vision."
+  },
+  {
+    "id": 141,
+    "author": "Muhammad Ali",
+    "quote": "It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe."
+  },
+  {
+    "id": 142,
+    "author": "Muhammad Ali",
+    "quote": "If my mind can conceive it, and my heart can believe it, then I can achieve it."
+  },
+  {
+    "id": 143,
+    "author": "Muhammad Ali",
+    "quote": "Service to others is the rent you pay for your room here on earth."
+  },
+  {
+    "id": 144,
+    "author": "Miyamoto Musashi",
+    "quote": "There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within."
+  },
+  {
+    "id": 145,
+    "author": "Miyamoto Musashi",
+    "quote": "Do nothing that is of no use."
+  },
+  {
+    "id": 146,
+    "author": "Miyamoto Musashi",
+    "quote": "Today is victory over yourself of yesterday; tomorrow is your victory over lesser men."
+  },
+  {
+    "id": 147,
+    "author": "Miyamoto Musashi",
+    "quote": "You must understand that there is more than one path to the top of the mountain."
+  },
+  {
+    "id": 148,
+    "author": "Miyamoto Musashi",
+    "quote": "Perceive that which cannot be seen with the eye."
+  },
+  {
+    "id": 149,
+    "author": "Miyamoto Musashi",
+    "quote": "The ultimate aim of martial arts is not having to use them."
+  },
+  {
+    "id": 150,
+    "author": "Miyamoto Musashi",
+    "quote": "Do not regret what you have done."
+  },
+  {
+    "id": 151,
+    "author": "Miyamoto Musashi",
+    "quote": "Think lightly of yourself and deeply of the world."
+  },
+  {
+    "id": 152,
+    "author": "Miyamoto Musashi",
+    "quote": "It is difficult to understand the universe if you only study one planet."
+  },
+  {
+    "id": 153,
+    "author": "Miyamoto Musashi",
+    "quote": "One thousand days of lessons for discipline; ten thousand days of lessons for mastery."
+  },
+  {
+    "id": 154,
+    "author": "Sun Tzu",
+    "quote": "In the midst of chaos, there is also opportunity."
+  },
+  {
+    "id": 155,
+    "author": "Sun Tzu",
+    "quote": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."
+  },
+  {
+    "id": 156,
+    "author": "Sun Tzu",
+    "quote": "Know yourself and you will win all battles."
+  },
+  {
+    "id": 157,
+    "author": "Sun Tzu",
+    "quote": "The supreme art of war is to subdue the enemy without fighting."
+  },
+  {
+    "id": 158,
+    "author": "Sun Tzu",
+    "quote": "Opportunities multiply as they are seized."
+  },
+  {
+    "id": 159,
+    "author": "Sun Tzu",
+    "quote": "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
+  },
+  {
+    "id": 160,
+    "author": "Sun Tzu",
+    "quote": "Water shapes its course according to the nature of the ground over which it flows."
+  },
+  {
+    "id": 161,
+    "author": "Winston Churchill",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."
+  },
+  {
+    "id": 162,
+    "author": "Winston Churchill",
+    "quote": "If you're going through hell, keep going."
+  },
+  {
+    "id": 163,
+    "author": "Winston Churchill",
+    "quote": "Continuous effort, not strength or intelligence, is the key to unlocking our potential."
+  },
+  {
+    "id": 164,
+    "author": "Winston Churchill",
+    "quote": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."
+  },
+  {
+    "id": 165,
+    "author": "Winston Churchill",
+    "quote": "Never, never, never give up."
+  },
+  {
+    "id": 166,
+    "author": "Winston Churchill",
+    "quote": "To improve is to change; to be perfect is to change often."
+  },
+  {
+    "id": 167,
+    "author": "Winston Churchill",
+    "quote": "Attitude is a little thing that makes a big difference."
+  },
+  {
+    "id": 168,
+    "author": "Winston Churchill",
+    "quote": "We make a living by what we get, but we make a life by what we give."
+  },
+  {
+    "id": 169,
+    "author": "Helen Keller",
+    "quote": "Life is either a daring adventure or nothing at all."
+  },
+  {
+    "id": 170,
+    "author": "Helen Keller",
+    "quote": "Alone we can do so little; together we can do so much."
+  },
+  {
+    "id": 171,
+    "author": "Helen Keller",
+    "quote": "Optimism is the faith that leads to achievement."
+  },
+  {
+    "id": 172,
+    "author": "Helen Keller",
+    "quote": "Character cannot be developed in ease and quiet."
+  },
+  {
+    "id": 173,
+    "author": "Helen Keller",
+    "quote": "Never bend your head. Always hold it high. Look the world straight in the eye."
+  },
+  {
+    "id": 174,
+    "author": "Helen Keller",
+    "quote": "Keep your face to the sunshine and you cannot see a shadow."
+  },
+  {
+    "id": 175,
+    "author": "Maya Angelou",
+    "quote": "Nothing will work unless you do."
+  },
+  {
+    "id": 176,
+    "author": "Maya Angelou",
+    "quote": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+  },
+  {
+    "id": 177,
+    "author": "Maya Angelou",
+    "quote": "Courage is the most important of all the virtues, because without courage, you can't practice any other virtue consistently."
+  },
+  {
+    "id": 178,
+    "author": "Maya Angelou",
+    "quote": "If you don't like something, change it. If you can't change it, change your attitude."
+  },
+  {
+    "id": 179,
+    "author": "Maya Angelou",
+    "quote": "We may encounter many defeats but we must not be defeated."
+  },
+  {
+    "id": 180,
+    "author": "Maya Angelou",
+    "quote": "You can't use up creativity. The more you use, the more you have."
+  },
+  {
+    "id": 181,
+    "author": "Nelson Mandela",
+    "quote": "It always seems impossible until it's done."
+  },
+  {
+    "id": 182,
+    "author": "Nelson Mandela",
+    "quote": "I never lose. I either win or learn."
+  },
+  {
+    "id": 183,
+    "author": "Nelson Mandela",
+    "quote": "Vision without action is merely dreaming."
+  },
+  {
+    "id": 184,
+    "author": "Nelson Mandela",
+    "quote": "Do not judge me by my successes, judge me by how many times I fell down and got back up again."
+  },
+  {
+    "id": 185,
+    "author": "Nelson Mandela",
+    "quote": "May your choices reflect your hopes, not your fears."
+  },
+  {
+    "id": 186,
+    "author": "Vince Lombardi",
+    "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence."
+  },
+  {
+    "id": 187,
+    "author": "Vince Lombardi",
+    "quote": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will."
+  },
+  {
+    "id": 188,
+    "author": "Vince Lombardi",
+    "quote": "It's not whether you get knocked down; it's whether you get up."
+  },
+  {
+    "id": 189,
+    "author": "Vince Lombardi",
+    "quote": "Winners never quit and quitters never win."
+  },
+  {
+    "id": 190,
+    "author": "Vince Lombardi",
+    "quote": "Practice does not make perfect. Only perfect practice makes perfect."
+  },
+  {
+    "id": 191,
+    "author": "Vince Lombardi",
+    "quote": "The price of success is hard work, dedication to the job at hand."
+  },
+  {
+    "id": 192,
+    "author": "John Wooden",
+    "quote": "Don't let what you cannot do interfere with what you can do."
+  },
+  {
+    "id": 193,
+    "author": "John Wooden",
+    "quote": "Make each day your masterpiece."
+  },
+  {
+    "id": 194,
+    "author": "John Wooden",
+    "quote": "Be quick, but don't hurry."
+  },
+  {
+    "id": 195,
+    "author": "John Wooden",
+    "quote": "Things turn out best for the people who make the best of the way things turn out."
+  },
+  {
+    "id": 196,
+    "author": "John Wooden",
+    "quote": "It's the little details that are vital. Little things make big things happen."
+  },
+  {
+    "id": 197,
+    "author": "John Wooden",
+    "quote": "Never mistake activity for achievement."
+  },
+  {
+    "id": 198,
+    "author": "Swami Vivekananda",
+    "quote": "Arise, awake, and stop not till the goal is reached."
+  },
+  {
+    "id": 199,
+    "author": "Swami Vivekananda",
+    "quote": "Take up one idea. Make that one idea your life."
+  },
+  {
+    "id": 200,
+    "author": "Swami Vivekananda",
+    "quote": "You cannot believe in God until you believe in yourself."
+  },
+  {
+    "id": 201,
+    "author": "Swami Vivekananda",
+    "quote": "In a day, when you don't come across any problems, you can be sure that you are travelling in a wrong path."
+  },
+  {
+    "id": 202,
+    "author": "Swami Vivekananda",
+    "quote": "All the powers in the universe are already ours."
+  },
+  {
+    "id": 203,
+    "author": "Swami Vivekananda",
+    "quote": "Talk to yourself once in a day, otherwise you may miss meeting an excellent person in this world."
+  },
+  {
+    "id": 204,
+    "author": "Rumi",
+    "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+  },
+  {
+    "id": 205,
+    "author": "Rumi",
+    "quote": "What you seek is seeking you."
+  },
+  {
+    "id": 206,
+    "author": "Rumi",
+    "quote": "The wound is the place where the Light enters you."
+  },
+  {
+    "id": 207,
+    "author": "Rumi",
+    "quote": "Set your life on fire. Seek those who fan your flames."
+  },
+  {
+    "id": 208,
+    "author": "Rumi",
+    "quote": "Let the beauty of what you love be what you do."
+  },
+  {
+    "id": 209,
+    "author": "Rumi",
+    "quote": "Don't be satisfied with stories, how things have gone with others. Unfold your own myth."
+  },
+  {
+    "id": 210,
+    "author": "Thomas Edison",
+    "quote": "I have not failed. I've just found 10,000 ways that won't work."
+  },
+  {
+    "id": 211,
+    "author": "Thomas Edison",
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration."
+  },
+  {
+    "id": 212,
+    "author": "Thomas Edison",
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+  },
+  {
+    "id": 213,
+    "author": "Thomas Edison",
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+  },
+  {
+    "id": 214,
+    "author": "Thomas Edison",
+    "quote": "There is no substitute for hard work."
+  },
+  {
+    "id": 215,
+    "author": "Leonardo da Vinci",
+    "quote": "Simplicity is the ultimate sophistication."
+  },
+  {
+    "id": 216,
+    "author": "Leonardo da Vinci",
+    "quote": "Learning never exhausts the mind."
+  },
+  {
+    "id": 217,
+    "author": "Leonardo da Vinci",
+    "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things."
+  },
+  {
+    "id": 218,
+    "author": "Leonardo da Vinci",
+    "quote": "Iron rusts from disuse; water loses its purity from stagnation."
+  },
+  {
+    "id": 219,
+    "author": "Albert Einstein",
+    "quote": "Life is like riding a bicycle. To keep your balance you must keep moving."
+  },
+  {
+    "id": 220,
+    "author": "Albert Einstein",
+    "quote": "Anyone who has never made a mistake has never tried anything new."
+  },
+  {
+    "id": 221,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge."
+  },
+  {
+    "id": 222,
+    "author": "Albert Einstein",
+    "quote": "It's not that I'm so smart, it's just that I stay with problems longer."
+  },
+  {
+    "id": 223,
+    "author": "Albert Einstein",
+    "quote": "In the middle of difficulty lies opportunity."
+  },
+  {
+    "id": 224,
+    "author": "Albert Einstein",
+    "quote": "Strive not to be a success, but rather to be of value."
+  },
+  {
+    "id": 225,
+    "author": "Mahatma Gandhi",
+    "quote": "Be the change that you wish to see in the world."
+  },
+  {
+    "id": 226,
+    "author": "Mahatma Gandhi",
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will."
+  },
+  {
+    "id": 227,
+    "author": "Mahatma Gandhi",
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+  },
+  {
+    "id": 228,
+    "author": "Mahatma Gandhi",
+    "quote": "The future depends on what you do today."
+  },
+  {
+    "id": 229,
+    "author": "Mahatma Gandhi",
+    "quote": "An ounce of practice is worth more than tons of preaching."
+  },
+  {
+    "id": 230,
+    "author": "Mahatma Gandhi",
+    "quote": "Action expresses priorities."
+  },
+  {
+    "id": 231,
+    "author": "Martin Luther King Jr.",
+    "quote": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward."
+  },
+  {
+    "id": 232,
+    "author": "Martin Luther King Jr.",
+    "quote": "Take the first step in faith. You don't have to see the whole staircase, just take the first step."
+  },
+  {
+    "id": 233,
+    "author": "Martin Luther King Jr.",
+    "quote": "The time is always right to do what is right."
+  },
+  {
+    "id": 234,
+    "author": "Martin Luther King Jr.",
+    "quote": "Darkness cannot drive out darkness; only light can do that."
+  },
+  {
+    "id": 235,
+    "author": "Martin Luther King Jr.",
+    "quote": "Faith is taking the first step even when you don't see the whole staircase."
+  },
+  {
+    "id": 236,
+    "author": "Benjamin Franklin",
+    "quote": "Well done is better than well said."
+  },
+  {
+    "id": 237,
+    "author": "Benjamin Franklin",
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+  },
+  {
+    "id": 238,
+    "author": "Benjamin Franklin",
+    "quote": "By failing to prepare, you are preparing to fail."
+  },
+  {
+    "id": 239,
+    "author": "Benjamin Franklin",
+    "quote": "Energy and persistence conquer all things."
+  },
+  {
+    "id": 240,
+    "author": "Benjamin Franklin",
+    "quote": "Lost time is never found again."
+  },
+  {
+    "id": 241,
+    "author": "Benjamin Franklin",
+    "quote": "You may delay, but time will not."
+  },
+  {
+    "id": 242,
+    "author": "Benjamin Franklin",
+    "quote": "Diligence is the mother of good luck."
+  },
+  {
+    "id": 243,
+    "author": "Michael Jordan",
+    "quote": "I've failed over and over and over again in my life. And that is why I succeed."
+  },
+  {
+    "id": 244,
+    "author": "Michael Jordan",
+    "quote": "Some people want it to happen, some wish it would happen, others make it happen."
+  },
+  {
+    "id": 245,
+    "author": "Michael Jordan",
+    "quote": "You must expect great things of yourself before you can do them."
+  },
+  {
+    "id": 246,
+    "author": "Michael Jordan",
+    "quote": "Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it."
+  },
+  {
+    "id": 247,
+    "author": "Michael Jordan",
+    "quote": "Talent wins games, but teamwork and intelligence win championships."
+  },
+  {
+    "id": 248,
+    "author": "Kobe Bryant",
+    "quote": "The most important thing is to try and inspire people so that they can be great in whatever they want to do."
+  },
+  {
+    "id": 249,
+    "author": "Kobe Bryant",
+    "quote": "Everything negative, pressure, challenges, is all an opportunity for me to rise."
+  },
+  {
+    "id": 250,
+    "author": "Kobe Bryant",
+    "quote": "Rest at the end, not in the middle."
+  },
+  {
+    "id": 251,
+    "author": "Kobe Bryant",
+    "quote": "Great things come from hard work and perseverance. No excuses."
+  },
+  {
+    "id": 252,
+    "author": "Kobe Bryant",
+    "quote": "I can't relate to lazy people. We don't speak the same language."
+  },
+  {
+    "id": 253,
+    "author": "Wayne Gretzky",
+    "quote": "You miss 100% of the shots you don't take."
+  },
+  {
+    "id": 254,
+    "author": "Wayne Gretzky",
+    "quote": "I skate to where the puck is going to be, not where it has been."
+  },
+  {
+    "id": 255,
+    "author": "Pelé",
+    "quote": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing."
+  },
+  {
+    "id": 256,
+    "author": "Pelé",
+    "quote": "The more difficult the victory, the greater the happiness in winning."
+  },
+  {
+    "id": 257,
+    "author": "Jesse Owens",
+    "quote": "We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort."
+  },
+  {
+    "id": 258,
+    "author": "Jesse Owens",
+    "quote": "The battles that count aren't the ones for gold medals. The struggles within yourself are where it's at."
+  },
+  {
+    "id": 259,
+    "author": "Arnold Schwarzenegger",
+    "quote": "Strength does not come from winning. Your struggles develop your strengths."
+  },
+  {
+    "id": 260,
+    "author": "Arnold Schwarzenegger",
+    "quote": "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it."
+  },
+  {
+    "id": 261,
+    "author": "Arnold Schwarzenegger",
+    "quote": "You can't climb the ladder of success with your hands in your pockets."
+  },
+  {
+    "id": 262,
+    "author": "Serena Williams",
+    "quote": "I really think a champion is defined not by their wins but by how they can recover when they fall."
+  },
+  {
+    "id": 263,
+    "author": "Serena Williams",
+    "quote": "Luck has nothing to do with it, because I have spent many, many hours on the court working for my one moment in time."
+  },
+  {
+    "id": 264,
+    "author": "Billie Jean King",
+    "quote": "Champions keep playing until they get it right."
+  },
+  {
+    "id": 265,
+    "author": "Billie Jean King",
+    "quote": "Pressure is a privilege."
+  },
+  {
+    "id": 266,
+    "author": "Mia Hamm",
+    "quote": "Somewhere behind the athlete you've become and the hours of practice and the coaches who have pushed you is a little girl who fell in love with the game and never looked back."
+  },
+  {
+    "id": 267,
+    "author": "Lou Holtz",
+    "quote": "Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it."
+  },
+  {
+    "id": 268,
+    "author": "Lou Holtz",
+    "quote": "It's not the load that breaks you down, it's the way you carry it."
+  },
+  {
+    "id": 269,
+    "author": "Tim Notke",
+    "quote": "Hard work beats talent when talent doesn't work hard."
+  },
+  {
+    "id": 270,
+    "author": "Babe Ruth",
+    "quote": "It's hard to beat a person who never gives up."
+  },
+  {
+    "id": 271,
+    "author": "Babe Ruth",
+    "quote": "Never let the fear of striking out keep you from playing the game."
+  },
+  {
+    "id": 272,
+    "author": "Walt Disney",
+    "quote": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": 273,
+    "author": "Walt Disney",
+    "quote": "All our dreams can come true, if we have the courage to pursue them."
+  },
+  {
+    "id": 274,
+    "author": "Walt Disney",
+    "quote": "If you can dream it, you can do it."
+  },
+  {
+    "id": 275,
+    "author": "Henry Ford",
+    "quote": "Whether you think you can, or you think you can't, you're right."
+  },
+  {
+    "id": 276,
+    "author": "Henry Ford",
+    "quote": "Obstacles are those frightful things you see when you take your eyes off your goal."
+  },
+  {
+    "id": 277,
+    "author": "Henry Ford",
+    "quote": "You can't build a reputation on what you are going to do."
+  },
+  {
+    "id": 278,
+    "author": "Henry Ford",
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently."
+  },
+  {
+    "id": 279,
+    "author": "Henry Ford",
+    "quote": "Coming together is a beginning; keeping together is progress; working together is success."
+  },
+  {
+    "id": 280,
+    "author": "Steve Jobs",
+    "quote": "Stay hungry, stay foolish."
+  },
+  {
+    "id": 281,
+    "author": "Steve Jobs",
+    "quote": "The only way to do great work is to love what you do."
+  },
+  {
+    "id": 282,
+    "author": "Steve Jobs",
+    "quote": "Your time is limited, so don't waste it living someone else's life."
+  },
+  {
+    "id": 283,
+    "author": "Steve Jobs",
+    "quote": "Have the courage to follow your heart and intuition."
+  },
+  {
+    "id": 284,
+    "author": "Steve Jobs",
+    "quote": "Innovation distinguishes between a leader and a follower."
+  },
+  {
+    "id": 285,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Do the thing and you will have the power."
+  },
+  {
+    "id": 286,
+    "author": "Ralph Waldo Emerson",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "id": 287,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Do not go where the path may lead; go instead where there is no path and leave a trail."
+  },
+  {
+    "id": 288,
+    "author": "Ralph Waldo Emerson",
+    "quote": "The only person you are destined to become is the person you decide to be."
+  },
+  {
+    "id": 289,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Nothing great was ever achieved without enthusiasm."
+  },
+  {
+    "id": 290,
+    "author": "Ralph Waldo Emerson",
+    "quote": "Write it on your heart that every day is the best day in the year."
+  },
+  {
+    "id": 291,
+    "author": "Henry David Thoreau",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined."
+  },
+  {
+    "id": 292,
+    "author": "Henry David Thoreau",
+    "quote": "Success usually comes to those who are too busy to be looking for it."
+  },
+  {
+    "id": 293,
+    "author": "Henry David Thoreau",
+    "quote": "It's not what you look at that matters, it's what you see."
+  },
+  {
+    "id": 294,
+    "author": "Henry David Thoreau",
+    "quote": "Our life is frittered away by detail. Simplify, simplify."
+  },
+  {
+    "id": 295,
+    "author": "Friedrich Nietzsche",
+    "quote": "He who has a why to live can bear almost any how."
+  },
+  {
+    "id": 296,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger."
+  },
+  {
+    "id": 297,
+    "author": "Friedrich Nietzsche",
+    "quote": "No one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone."
+  },
+  {
+    "id": 298,
+    "author": "Johann Wolfgang von Goethe",
+    "quote": "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it."
+  },
+  {
+    "id": 299,
+    "author": "Johann Wolfgang von Goethe",
+    "quote": "Magic is believing in yourself. If you can do that, you can make anything happen."
+  },
+  {
+    "id": 300,
+    "author": "Johann Wolfgang von Goethe",
+    "quote": "Talent is cultivated in solitude; character is formed in the stormy billows of the world."
+  },
+  {
+    "id": 301,
+    "author": "Abraham Lincoln",
+    "quote": "Discipline is choosing between what you want now and what you want most."
+  },
+  {
+    "id": 302,
+    "author": "Abraham Lincoln",
+    "quote": "I am a slow walker, but I never walk back."
+  },
+  {
+    "id": 303,
+    "author": "Abraham Lincoln",
+    "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+  },
+  {
+    "id": 304,
+    "author": "Eleanor Roosevelt",
+    "quote": "Do one thing every day that scares you."
+  },
+  {
+    "id": 305,
+    "author": "Eleanor Roosevelt",
+    "quote": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "id": 306,
+    "author": "Eleanor Roosevelt",
+    "quote": "You must do the thing you think you cannot do."
+  },
+  {
+    "id": 307,
+    "author": "Eleanor Roosevelt",
+    "quote": "No one can make you feel inferior without your consent."
+  },
+  {
+    "id": 308,
+    "author": "Amelia Earhart",
+    "quote": "The most difficult thing is the decision to act; the rest is merely tenacity."
+  },
+  {
+    "id": 309,
+    "author": "Amelia Earhart",
+    "quote": "Adventure is worthwhile in itself."
+  },
+  {
+    "id": 310,
+    "author": "Amelia Earhart",
+    "quote": "Never interrupt someone doing what you said couldn't be done."
+  },
+  {
+    "id": 311,
+    "author": "Marie Curie",
+    "quote": "Nothing in life is to be feared, it is only to be understood."
+  },
+  {
+    "id": 312,
+    "author": "Marie Curie",
+    "quote": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves."
+  },
+  {
+    "id": 313,
+    "author": "Pablo Picasso",
+    "quote": "Action is the foundational key to all success."
+  },
+  {
+    "id": 314,
+    "author": "Pablo Picasso",
+    "quote": "Inspiration exists, but it has to find you working."
+  },
+  {
+    "id": 315,
+    "author": "Pablo Picasso",
+    "quote": "I am always doing that which I cannot do, in order that I may learn how to do it."
+  },
+  {
+    "id": 316,
+    "author": "Pablo Picasso",
+    "quote": "Everything you can imagine is real."
+  },
+  {
+    "id": 317,
+    "author": "Vincent van Gogh",
+    "quote": "Great things are done by a series of small things brought together."
+  },
+  {
+    "id": 318,
+    "author": "Vincent van Gogh",
+    "quote": "If you hear a voice within you say you cannot paint, then by all means paint, and that voice will be silenced."
+  },
+  {
+    "id": 319,
+    "author": "Vincent van Gogh",
+    "quote": "What would life be if we had no courage to attempt anything?"
+  },
+  {
+    "id": 320,
+    "author": "Ansel Adams",
+    "quote": "You don't take a photograph, you make it."
+  },
+  {
+    "id": 321,
+    "author": "Ansel Adams",
+    "quote": "Twelve significant photographs in any one year is a good crop."
+  },
+  {
+    "id": 322,
+    "author": "Henri Cartier-Bresson",
+    "quote": "Your first 10,000 photographs are your worst."
+  },
+  {
+    "id": 323,
+    "author": "Dorothea Lange",
+    "quote": "The camera is an instrument that teaches people how to see without a camera."
+  },
+  {
+    "id": 324,
+    "author": "Robert Capa",
+    "quote": "If your pictures aren't good enough, you're not close enough."
+  },
+  {
+    "id": 325,
+    "author": "Michelangelo",
+    "quote": "If people knew how hard I worked to get my mastery, it wouldn't seem so wonderful at all."
+  },
+  {
+    "id": 326,
+    "author": "Michelangelo",
+    "quote": "The greater danger for most of us lies not in setting our aim too high and falling short, but in setting our aim too low and achieving our mark."
+  },
+  {
+    "id": 327,
+    "author": "Buddha",
+    "quote": "What you think, you become."
+  },
+  {
+    "id": 328,
+    "author": "Buddha",
+    "quote": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."
+  },
+  {
+    "id": 329,
+    "author": "Buddha",
+    "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+  },
+  {
+    "id": 330,
+    "author": "Buddha",
+    "quote": "Better than a thousand hollow words is one word that brings peace."
+  },
+  {
+    "id": 331,
+    "author": "Buddha",
+    "quote": "Peace comes from within. Do not seek it without."
+  },
+  {
+    "id": 332,
+    "author": "Zig Ziglar",
+    "quote": "You don't have to be great to start, but you have to start to be great."
+  },
+  {
+    "id": 333,
+    "author": "Zig Ziglar",
+    "quote": "People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily."
+  },
+  {
+    "id": 334,
+    "author": "Jim Rohn",
+    "quote": "Discipline is the bridge between goals and accomplishment."
+  },
+  {
+    "id": 335,
+    "author": "Jim Rohn",
+    "quote": "Success is nothing more than a few simple disciplines, practiced every day."
+  },
+  {
+    "id": 336,
+    "author": "Jim Rohn",
+    "quote": "Either you run the day or the day runs you."
+  },
+  {
+    "id": 337,
+    "author": "Jim Rohn",
+    "quote": "Motivation is what gets you started. Habit is what keeps you going."
+  },
+  {
+    "id": 338,
+    "author": "Jim Rohn",
+    "quote": "Take care of your body. It's the only place you have to live."
+  },
+  {
+    "id": 339,
+    "author": "Dale Carnegie",
+    "quote": "Inaction breeds doubt and fear. Action breeds confidence and courage."
+  },
+  {
+    "id": 340,
+    "author": "Dale Carnegie",
+    "quote": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."
+  },
+  {
+    "id": 341,
+    "author": "Napoleon Hill",
+    "quote": "Don't wait. The time will never be just right."
+  },
+  {
+    "id": 342,
+    "author": "Napoleon Hill",
+    "quote": "Patience, persistence and perspiration make an unbeatable combination for success."
+  },
+  {
+    "id": 343,
+    "author": "Napoleon Hill",
+    "quote": "Strength and growth come only through continuous effort and struggle."
+  },
+  {
+    "id": 344,
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started."
+  },
+  {
+    "id": 345,
+    "author": "Mark Twain",
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+  },
+  {
+    "id": 346,
+    "author": "Mark Twain",
+    "quote": "Courage is resistance to fear, mastery of fear, not absence of fear."
+  },
+  {
+    "id": 347,
+    "author": "Plato",
+    "quote": "The first and greatest victory is to conquer yourself."
+  },
+  {
+    "id": 348,
+    "author": "Plato",
+    "quote": "The beginning is the most important part of the work."
+  },
+  {
+    "id": 349,
+    "author": "Socrates",
+    "quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
+  },
+  {
+    "id": 350,
+    "author": "Socrates",
+    "quote": "Let him who would move the world first move himself."
+  },
+  {
+    "id": 351,
+    "author": "Heraclitus",
+    "quote": "No man ever steps in the same river twice."
+  },
+  {
+    "id": 352,
+    "author": "Heraclitus",
+    "quote": "The only constant in life is change."
+  },
+  {
+    "id": 353,
+    "author": "Heraclitus",
+    "quote": "Character is destiny."
+  },
+  {
+    "id": 354,
+    "author": "Zeno of Citium",
+    "quote": "Well-being is attained by little and little, and nevertheless is no little thing itself."
+  },
+  {
+    "id": 355,
+    "author": "Ovid",
+    "quote": "Dripping water hollows out stone, not through force but through persistence."
+  },
+  {
+    "id": 356,
+    "author": "Ovid",
+    "quote": "Be patient and tough; someday this pain will be useful to you."
+  },
+  {
+    "id": 357,
+    "author": "Virgil",
+    "quote": "They can because they think they can."
+  },
+  {
+    "id": 358,
+    "author": "Horace",
+    "quote": "He who has begun is half done. Dare to be wise; begin!"
+  },
+  {
+    "id": 359,
+    "author": "Publilius Syrus",
+    "quote": "Practice is the best of all instructors."
+  },
+  {
+    "id": 360,
+    "author": "Sophocles",
+    "quote": "Heaven never helps the man who will not act."
+  },
+  {
+    "id": 361,
+    "author": "Morihei Ueshiba",
+    "quote": "True victory is victory over oneself."
+  },
+  {
+    "id": 362,
+    "author": "Morihei Ueshiba",
+    "quote": "Failure is the key to success; each mistake teaches us something."
+  },
+  {
+    "id": 363,
+    "author": "Gichin Funakoshi",
+    "quote": "Karate is like boiling water; if you do not heat it constantly, it will cool."
+  },
+  {
+    "id": 364,
+    "author": "Gichin Funakoshi",
+    "quote": "The ultimate aim of karate lies not in victory or defeat, but in the perfection of the character of its participants."
+  },
+  {
+    "id": 365,
+    "author": "Ip Man",
+    "quote": "Kung fu is not about fighting. It's about self-cultivation."
   }
 ]

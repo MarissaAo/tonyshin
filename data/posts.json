@@ -1,5 +1,154 @@
 [
   {
+    "id": "2026-10-26",
+    "date": "26 Oct 2026",
+    "title": "Tonight’s Dinner Cooking",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096770/20261026_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096770/20261026_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096768/20261026_7.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-10-22",
+    "date": "22 Oct 2026",
+    "title": "A Peaceful Day at the Ancient Temple",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096619/20261022_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096619/20261022_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096624/20261022_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-10-04",
+    "date": "04 Oct 2026",
+    "title": "Giving Blood, Saving Lives",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150903/20261004_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793150903/20261004_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793150834/20261004_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793150834/20261004_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793150834/20261004_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793150834/20261004_5.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-10-03",
+    "date": "03 Oct 2026",
+    "title": "Sweet Potato Treat Time",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793093153/20261003_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093153/20261003_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093151/20261003_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093151/20261003_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093151/20261003_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093151/20261003_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793093151/20261003_6.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-09-27",
+    "date": "27 Sep 2026",
+    "title": "A Day Embracing the Ocean",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793090555/20260927_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090555/20260927_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090557/20260927_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793090563/20260927_4.mp4",
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793090559/20260927_5.mp4",
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793090558/20260927_6.mp4",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090556/20260927_3.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-09-25",
+    "date": "25 Sep 2026",
+    "title": "Cooking for Mid-Autumn Festival",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793090263/20260925_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090263/20260925_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090264/20260925_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090264/20260925_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090265/20260925_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090268/20260925_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090265/20260925_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090267/20260925_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090266/20260925_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793090269/20260925_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-09-19",
+    "date": "19 Sep 2026",
+    "title": "Life as a Weekend Farmer",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793089830/20260919_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089830/20260919_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089833/20260919_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089832/20260919_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089831/20260919_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089831/20260919_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089832/20260919_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089832/20260919_7.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-09-12",
+    "date": "12 Sep 2026",
+    "title": "Kimchi Order In!",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793089266/20260912_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089266/20260912_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089263/20260912_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089263/20260912_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089264/20260912_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089264/20260912_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089264/20260912_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089265/20260912_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089264/20260912_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793089265/20260912_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-09-02",
+    "date": "02 Sep 2026",
+    "title": "Calm & Peaceful Doggie",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793088935/20260902.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793088935/20260902.jpg"
+    ]
+  },
+
+  {
     "id": "2026-08-29",
     "date": "29 Aug 2026",
     "title": "Nature's Gentle Reset",
@@ -48,6 +197,17 @@
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792397151/20260801_5.jpg",
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792397154/20260801_6.jpg",
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792397156/20260801_7.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-07-31",
+    "date": "31 Jul 2026",
+    "title": "Mountain Walk with My Dog",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150357/20260731_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793150360/20260731.mp4"
     ]
   },
 
@@ -128,6 +288,46 @@
   },
 
   {
+    "id": "2026-05-10",
+    "date": "10 May 2026",
+    "title": "My Hot Pepper Garden",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096238/20260510_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096238/20260510_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096238/20260510_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793096239/20260510_8.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-04-29",
+    "date": "29 Apr 2026",
+    "title": "Sweet Dreams, Stars!",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150138/20260429_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793150141/20260429.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-12-22",
+    "date": "22 Dec 2025",
+    "title": "Supporting an Old Friend’s Charity Event",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793104238/20251222.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793104238/20251222.jpg"
+    ]
+  },
+
+  {
     "id": "2025-12-16",
     "date": "16 Dec 2025",
     "title": "First Date",
@@ -140,6 +340,52 @@
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792395587/KHKB2275.jpg",
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792395586/KDYO5337.jpg",
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792395216/FYSQ7371.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-08-31",
+    "date": "31 Aug 2025",
+    "title": "Basketball Time with My Dog",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793103743/20250831_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793103718/20250831.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-05-11",
+    "date": "11 May 2025",
+    "title": "My Homemade Cucumber Kimchi",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793095874/20250511_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095874/20250511_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095872/20250511_8.jpg"
+    ]
+  },
+
+  {
+    "id": "2022-05-30",
+    "date": "30 May 2022",
+    "title": "My Giant Seed Painting",
+    "category": "art-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_6.jpg"
     ]
   }
 ]
