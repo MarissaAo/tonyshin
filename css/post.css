@@ -48,7 +48,8 @@
   margin-bottom: 20px;
 }
 
-.photo-gallery img {
+.photo-gallery img,
+video {
   width: 100%;
   display: block;
   aspect-ratio: 1/1;

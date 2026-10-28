@@ -35,11 +35,18 @@ async function getPostDetail() {
     postContainer.appendChild(photoGallery);
 
     currentPost.photos.forEach(function (photo) {
-      const img = document.createElement("img");
-      img.setAttribute("src", photo);
-      img.setAttribute("alt", currentPost.title);
-
-      photoGallery.appendChild(img);
+      if (photo.includes(".mp4")) {
+        const video = document.createElement("video");
+        video.setAttribute("src", photo);
+        video.setAttribute("controls", ""); // show play button
+        video.setAttribute("playsinline", ""); // better on phones
+        photoGallery.appendChild(video);
+      } else {
+        const img = document.createElement("img");
+        img.setAttribute("src", photo);
+        img.setAttribute("alt", currentPost.title);
+        photoGallery.appendChild(img);
+      }
     });
   } catch (error) {
     console.error("Failed to load post details:", error);
