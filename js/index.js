@@ -42,7 +42,13 @@ async function getPost() {
 
   const oldPost = document.querySelector(".old-post");
   const oldPosts = posts.slice(5);
-  renderGrid(oldPosts, oldPost);
+
+  for (let i = 0; i < oldPosts.length; i = i + 5) {
+    const div = document.createElement("div");
+    div.classList.add("post");
+    oldPost.appendChild(div);
+    renderGrid(oldPosts.slice(i, i + 5), div);
+  }
 }
 
 getPost();
@@ -67,5 +73,19 @@ async function getQuote() {
     console.error("Failed to load quotes:", error);
   }
 }
-
 getQuote();
+
+async function showBanner() {
+  const res = await fetch("/data/image.json");
+  const banner = await res.json();
+
+  const randomBanner = Math.floor(Math.random() * banner.length);
+  const showRandomBanner = banner[randomBanner];
+
+  const img = document.querySelector(".banner img");
+  img.setAttribute("src", showRandomBanner.source);
+  img.setAttribute("alt", showRandomBanner.title);
+}
+
+showBanner();
+setInterval(showBanner, 3000);

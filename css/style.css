@@ -171,7 +171,8 @@ ul {
 /* #endregion header*/
 
 /* #region hero section */
-.hero {
+.hero,
+.post-hero {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -181,7 +182,8 @@ ul {
   padding: 0;
 }
 
-.hero h1 {
+.hero h1,
+.post-hero h1 {
   font-family: var(--font-family-brand);
   font-size: clamp(30px, 10vw, 80px);
   font-weight: 400;
@@ -189,7 +191,8 @@ ul {
   margin: 0;
 }
 
-.hero p {
+.hero p,
+.post-hero p {
   font-family: var(--font-family-quote);
   font-size: clamp(12px, 2vw, 80px);
   font-weight: 400;
@@ -270,6 +273,26 @@ ul {
 }
 
 /* #endregion main section */
+
+/* #region banner*/
+.banner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner img {
+  margin-bottom: 20px;
+  padding: 0;
+  width: min(600px, 90%);
+  height: auto;
+  aspect-ratio: 4 / 1;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* #endregion banner */
 
 /* #region quote section */
 
