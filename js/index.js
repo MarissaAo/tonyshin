@@ -2,6 +2,7 @@ const menuBtn = document.querySelector(".menu-toggle");
 const menu = document.querySelector(".menu");
 
 const quoteContent = document.querySelector(".quote-content");
+const quoteAuthor = document.querySelector(".author");
 
 function renderGrid(postList, container) {
   postList.forEach(function (post, index) {
@@ -77,7 +78,6 @@ async function getPost() {
     btn.style.display = "block";
   });
 }
-
 getPost();
 
 const toggleMenu = () => {
@@ -86,21 +86,6 @@ const toggleMenu = () => {
 };
 
 menuBtn.addEventListener("click", toggleMenu);
-
-async function getQuote() {
-  try {
-    const res = await fetch("/data/quotes.json");
-    const quotes = await res.json();
-
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    const randomQuote = quotes[randomIndex];
-
-    quoteContent.textContent = randomQuote.quote;
-  } catch (error) {
-    console.error("Failed to load quotes:", error);
-  }
-}
-getQuote();
 
 async function showBanner() {
   const response = await fetch("/data/image.json");
@@ -118,3 +103,18 @@ async function showBanner() {
 }
 
 showBanner();
+
+async function getQuote() {
+  const res = await fetch("/data/quotes.json");
+  const quotes = await res.json();
+
+  function showQuote() {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const randomQuote = quotes[randomIndex];
+    quoteContent.textContent = randomQuote.quote;
+    quoteAuthor.textContent = `- ${randomQuote.author}`;
+  }
+  showQuote();
+  setInterval(showQuote, 6000);
+}
+getQuote();
