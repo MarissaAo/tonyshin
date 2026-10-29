@@ -294,6 +294,22 @@ ul {
 
 /* #endregion banner */
 
+/* #region button */
+.show-more {
+  min-width: 150px;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: var(--text-color);
+  background-color: #ffe169;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+/* #endregion button*/
+
 /* #region quote section */
 
 .quote {

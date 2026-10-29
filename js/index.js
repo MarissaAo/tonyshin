@@ -31,6 +31,26 @@ function renderGrid(postList, container) {
   });
 }
 
+// async function getPost() {
+//   const res = await fetch("/data/posts.json");
+//   const posts = await res.json();
+
+//   const fivePost = posts.slice(0, 5);
+//   const postContainer = document.querySelector("#post-container");
+
+//   renderGrid(fivePost, postContainer);
+
+//   const oldPost = document.querySelector(".old-post");
+//   const oldPosts = posts.slice(5);
+
+//   for (let i = 0; i < oldPosts.length; i = i + 5) {
+//     const div = document.createElement("div");
+//     div.classList.add("post");
+//     oldPost.appendChild(div);
+//     renderGrid(oldPosts.slice(i, i + 5), div);
+//   }
+// }
+
 async function getPost() {
   const res = await fetch("/data/posts.json");
   const posts = await res.json();
@@ -41,14 +61,27 @@ async function getPost() {
   renderGrid(fivePost, postContainer);
 
   const oldPost = document.querySelector(".old-post");
-  const oldPosts = posts.slice(5);
+  const btn = document.querySelector(".show-more");
+  const rest = posts.slice(5);
 
-  for (let i = 0; i < oldPosts.length; i = i + 5) {
+  for (let i = 0; i < 10; i = i + 5) {
     const div = document.createElement("div");
     div.classList.add("post");
     oldPost.appendChild(div);
-    renderGrid(oldPosts.slice(i, i + 5), div);
+    renderGrid(rest.slice(i, i + 5), div);
   }
+
+  let shown = 10;
+  btn.addEventListener("click", function () {
+    const div = document.createElement("div");
+    div.classList.add("post");
+    oldPost.appendChild(div);
+    renderGrid(rest.slice(shown, shown + 5), div);
+    shown = shown + 5;
+    if (shown >= rest.length) {
+      btn.style.display = "none";
+    }
+  });
 }
 
 getPost();
