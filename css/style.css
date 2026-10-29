@@ -236,6 +236,16 @@ ul {
 
 .photobox .subject {
   visibility: hidden;
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  color: var(--text-color);
+  background-color: rgba(255, 225, 105, 0.7);
+  padding: 8px;
+  border-radius: 5px;
+}
+.photobox:hover .subject {
+  visibility: visible;
 }
 
 .post {
