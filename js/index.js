@@ -99,7 +99,7 @@ async function showBanner() {
   }
 
   pickOne();
-  setInterval(pickOne, 1500);
+  setInterval(pickOne, 3000);
 }
 
 showBanner();
@@ -115,6 +115,6 @@ async function getQuote() {
     quoteAuthor.textContent = `- ${randomQuote.author}`;
   }
   showQuote();
-  setInterval(showQuote, 6000);
+  setInterval(showQuote, 8000);
 }
 getQuote();
