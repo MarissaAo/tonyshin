@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-31",
+    "date": "31 Oct 2026",
+    "title": "Homemade Kimchi, Grown by Me",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793430517/20261031_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430517/20261031_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_9.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_10.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_11.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793430516/20261031_12.jpg"
+    ]
+  },
+
+  {
     "id": "2026-10-26",
     "date": "26 Oct 2026",
     "title": "Tonight’s Dinner Cooking",
