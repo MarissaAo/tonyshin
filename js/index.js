@@ -95,6 +95,22 @@ function applyFilters() {
   renderPosts(getFilteredPosts());
 }
 
+document.querySelectorAll(".filter-btn").forEach(function (button) {
+  button.addEventListener("click", function () {
+    document.querySelectorAll(".filter-btn").forEach(function (b) {
+      b.classList.remove("active");
+    });
+    button.classList.add("active");
+    currentCategory = button.getAttribute("data-category");
+    applyFilters();
+  });
+});
+
+document.querySelector("#search-input").addEventListener("input", function (e) {
+  searchText = e.target.value;
+  applyFilters();
+});
+
 async function getPost() {
   const res = await fetch("/data/posts.json");
   const posts = await res.json();

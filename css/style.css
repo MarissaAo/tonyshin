@@ -300,8 +300,8 @@ ul {
   gap: 1rem;
 
   grid-template-areas:
-    "box1 box2 box3"
-    "box4 box2 box5";
+    "box1 box3 box4"
+    "box2 box3 box5";
 
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
@@ -371,8 +371,8 @@ ul {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  color: white;
-  background-color: #184e77;
+  color: #3a3a3a;
+  background-color: #f5f5f5;
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;
