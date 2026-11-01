@@ -4,6 +4,23 @@ const menu = document.querySelector(".menu");
 const quoteContent = document.querySelector(".quote-content");
 const quoteAuthor = document.querySelector(".author");
 
+let allPosts = [];
+let currentCategory = "all";
+let searchText = "";
+
+function getFilteredPosts() {
+  return allPosts.filter(function (post) {
+    const matchCategory =
+      currentCategory === "all" || post.category === currentCategory;
+    const q = searchText.toLowerCase();
+    const matchSearch =
+      q === "" ||
+      post.title.toLowerCase().includes(q) ||
+      post.category.toLowerCase().includes(q);
+    return matchCategory && matchSearch;
+  });
+}
+
 function renderGrid(postList, container) {
   postList.forEach(function (post, index) {
     const div = document.createElement("div");
@@ -32,51 +49,58 @@ function renderGrid(postList, container) {
   });
 }
 
-async function getPost() {
-  const res = await fetch("/data/posts.json");
-  const posts = await res.json();
-
-  const fivePost = posts.slice(0, 5);
+function renderPosts(postList) {
   const postContainer = document.querySelector("#post-container");
-
-  renderGrid(fivePost, postContainer);
-
   const oldPost = document.querySelector(".old-post");
   const btn = document.querySelector(".show-more");
   const showLess = document.querySelector(".show-less");
-  const rest = posts.slice(5);
 
-  for (let i = 0; i < 10; i = i + 5) {
+  postContainer.innerHTML = "";
+  oldPost.innerHTML = "";
+
+  renderGrid(postList.slice(0, 5), postContainer);
+
+  const rest = postList.slice(5);
+  for (let i = 0; i < Math.min(10, rest.length); i = i + 5) {
     const div = document.createElement("div");
     div.classList.add("post");
     oldPost.appendChild(div);
     renderGrid(rest.slice(i, i + 5), div);
   }
 
-  let shown = 10;
+  let shown = Math.min(10, rest.length);
   showLess.style.display = "none";
-  btn.addEventListener("click", function () {
+  btn.style.display = rest.length > 10 ? "block" : "none";
+
+  btn.onclick = function () {
     const div = document.createElement("div");
     div.classList.add("post");
     oldPost.appendChild(div);
     renderGrid(rest.slice(shown, shown + 5), div);
     shown = shown + 5;
     showLess.style.display = "block";
+    if (shown >= rest.length) btn.style.display = "none";
+  };
 
-    if (shown >= rest.length) {
-      btn.style.display = "none";
-    }
-  });
-
-  showLess.addEventListener("click", function () {
+  showLess.onclick = function () {
     const grids = oldPost.querySelectorAll(".post");
-    for (let i = grids.length - 1; i >= 2; i--) {
-      grids[i].remove();
-    }
-    shown = 10;
+    for (let i = grids.length - 1; i >= 2; i--) grids[i].remove();
+    shown = Math.min(10, rest.length);
     showLess.style.display = "none";
-    btn.style.display = "block";
-  });
+    btn.style.display = rest.length > 10 ? "block" : "none";
+  };
+}
+
+function applyFilters() {
+  renderPosts(getFilteredPosts());
+}
+
+async function getPost() {
+  const res = await fetch("/data/posts.json");
+  const posts = await res.json();
+
+  allPosts = posts;
+  applyFilters();
 }
 getPost();
 
