@@ -1,6 +1,3 @@
-const menuBtn = document.querySelector(".menu-toggle");
-const menu = document.querySelector(".menu");
-
 const quoteContent = document.querySelector(".quote-content");
 const quoteAuthor = document.querySelector(".author");
 
@@ -120,6 +117,8 @@ async function getPost() {
 }
 getPost();
 
+const menuBtn = document.querySelector(".menu-toggle");
+const menu = document.querySelector(".menu");
 const toggleMenu = () => {
   menu.classList.toggle("active");
   menuBtn.classList.toggle("active");

@@ -54,3 +54,12 @@ async function getPostDetail() {
 }
 
 getPostDetail();
+
+const menuBtn = document.querySelector(".menu-toggle");
+const menu = document.querySelector(".menu");
+const toggleMenu = () => {
+  menu.classList.toggle("active");
+  menuBtn.classList.toggle("active");
+};
+
+menuBtn.addEventListener("click", toggleMenu);
