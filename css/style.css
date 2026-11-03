@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Cinzel";
   src: url("/assets/font/Cinzel_Decorative/CinzelDecorative-Regular.ttf")
-    format("woff2");
+    format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -33,6 +33,7 @@
 /* #region global scope */
 :root {
   --text-color: #3a3a3a;
+  --kimchi-red: #b91c1c;
   --font-family-brand: cinzel, sans-serif;
   --font-family-quote: cormorantgaramond, serif;
 }
@@ -189,7 +190,7 @@ ul {
 }
 
 .navbar-link.active a,
-.menu-link.active {
+.menu-link.active a {
   text-decoration: underline;
   text-decoration-color: #ffe169;
   text-underline-offset: 6px;
@@ -197,11 +198,11 @@ ul {
 }
 
 .kimchi a {
-  color: #b91c1c;
+  color: var(--kimchi-red);
 }
 
 .kimchi a:hover {
-  color: #b91c1c;
+  color: var(--kimchi-red);
 }
 
 /* #endregion header*/
