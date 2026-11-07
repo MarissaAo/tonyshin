@@ -5,13 +5,14 @@
 }
 
 .post-hero {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  min-height: 200px;
+  width: 80%;
+  margin: 0 auto;
+  min-height: 100px;
   padding: 0;
+}
+
+.post-hero h1 {
+  font-size: xx-large;
 }
 
 #post-detail {
@@ -22,14 +23,15 @@
   align-items: center;
 }
 
-#post-detail h2 {
+#post-detail .message {
   border-radius: 5px;
   background-color: antiquewhite;
-  font-size: x-large;
+  font-size: medium;
   color: var(--text-color);
   margin: 5px 3%;
   padding: 10px 30px;
   text-align: center;
+  white-space: pre-line;
 }
 
 #post-detail p {
