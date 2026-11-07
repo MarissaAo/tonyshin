@@ -2,7 +2,8 @@
   {
     "id": "2026-10-31",
     "date": "31 Oct 2026",
-    "title": "Homemade Kimchi, Grown by Me",
+    "title": "Homemade Kimchi with Homegrown Radishes",
+    "message": "Made kimchi with the radishes I harvested from my garden last week. The radishes were so fresh and delicious that the kimchi turned out exceptionally tasty!",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793430517/20261031_cover.jpg",
     "photos": [
@@ -25,6 +26,7 @@
     "id": "2026-10-26",
     "date": "26 Oct 2026",
     "title": "Tonight’s Dinner Cooking",
+    "message": "",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096770/20261026_cover.jpg",
     "photos": [
@@ -42,6 +44,7 @@
     "id": "2026-10-22",
     "date": "22 Oct 2026",
     "title": "A Peaceful Day at the Ancient Temple",
+    "message": "",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096619/20261022_cover.jpg",
     "photos": [
@@ -61,6 +64,7 @@
     "id": "2026-10-04",
     "date": "04 Oct 2026",
     "title": "Giving Blood, Saving Lives",
+    "message": "",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150903/20261004_cover.jpg",
     "photos": [
@@ -75,7 +79,8 @@
   {
     "id": "2026-10-03",
     "date": "03 Oct 2026",
-    "title": "Sweet Potato Treat Time",
+    "title": "Sweet Potato Treats for Xingxing",
+    "message": "Made some homemade treats for Xingxing today! Xingxing especially loves sweet potatoes. Korean sweet potatoes tend to have a higher moisture content and a softer texture. Giving them a little time in the pan makes them even more delicious, bringing out their natural sweetness and making them extra tasty.",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793093153/20261003_cover.jpg",
     "photos": [
@@ -92,6 +97,7 @@
     "id": "2026-09-27",
     "date": "27 Sep 2026",
     "title": "A Day Embracing the Ocean",
+    "message": "",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793090555/20260927_cover.jpg",
     "photos": [
@@ -108,6 +114,7 @@
     "id": "2026-09-25",
     "date": "25 Sep 2026",
     "title": "Cooking for Mid-Autumn Festival",
+    "message": "",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793090263/20260925_cover.jpg",
     "photos": [
@@ -126,7 +133,8 @@
   {
     "id": "2026-09-19",
     "date": "19 Sep 2026",
-    "title": "Life as a Weekend Farmer",
+    "title": "A Weekend Farmer's Autumn",
+    "message": "Autumn has arrived in Korea. The days are still warm, but the mornings and evenings are getting chilly. This year's gardening season is almost over, with only the napa cabbage and radishes left to harvest. Once the winter kimchi is made, another year of growing comes to an end. It's amazing how quickly time flies.",
     "category": "farm-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793089830/20260919_cover.jpg",
     "photos": [
@@ -143,7 +151,8 @@
   {
     "id": "2026-09-12",
     "date": "12 Sep 2026",
-    "title": "Kimchi Order In!",
+    "title": "A Kimchi Order Completed!",
+    "message": "Completed 10 sets of low-salt pickles today! Three varieties: white cabbage kimchi, stuffed cucumbers, and Korean seasoned cucumber pickles. Next up, traditional Korean kimchi! So many ideas, so many possibilities. Hopefully, one day, I can share these homemade flavours beyond Korea.I made them myself, but honestly, they're delicious!",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793089266/20260912_cover.jpg",
     "photos": [
@@ -162,7 +171,8 @@
   {
     "id": "2026-09-02",
     "date": "02 Sep 2026",
-    "title": "Calm & Peaceful Doggie",
+    "title": "Living in Her Own Little Peaceful World",
+    "message": "Xingxing 🌟 enjoying her own little world, peaceful, carefree, and perfectly happy.🌟🌟",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793088935/20260902.jpg",
     "photos": [
@@ -174,6 +184,7 @@
     "id": "2026-08-29",
     "date": "29 Aug 2026",
     "title": "Nature's Gentle Reset",
+    "message": "A little escape to the valley at the end of summer. After a few days of rain, the stream felt even cooler. The gentle breeze and fresh air washed away the stress, refreshing both body and mind.",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792405910/20260829_1.jpg",
     "photos": [
@@ -186,11 +197,24 @@
   },
 
   {
+    "id": "2026-08-26",
+    "date": "26 Aug 2026",
+    "title": "A Moment to Look Up",
+    "message": "Day after day, life gets busy, and I hardly ever stop to look at the sky. After lunch today, I happened to look up and noticed how constantly it changes, just like life itself. Every moment brings a different view. Autumn is here, yet the days are still warm. Here's hoping today is a little better than yesterday, and tomorrow will be even better.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794027285/20260826_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794027285/20260826_cover.jpg"
+    ]
+  },
+
+  {
     "id": "2026-08-09",
     "date": "09 Aug 2026",
-    "title": "Harvest Hanja",
+    "title": "A Bountiful Chili Pepper Harvest",
+    "message": "Finished harvesting all the chili peppers in just two days! The weather brought an especially abundant harvest this year. It was quite a lot of work for one person, but I'm so happy with the beautiful quality of the peppers. Next, it's time to sun-dry them and make Taeyangcho, traditional Korean sun-dried chili peppers used to make Korean chili powder.",
     "category": "farm-life",
-    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792397484/20260809_8.jpg",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792397484/20260809_9.jpg",
     "photos": [
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792397484/20260809_8.jpg",
       "https://res.cloudinary.com/brtweu9w/image/upload/v1792397464/20260809_1.jpg",
@@ -205,9 +229,22 @@
   },
 
   {
+    "id": "2026-08-08",
+    "date": "08 Aug 2026",
+    "title": "Chili Pepper Harvest in the Summer Heat",
+    "message": "36°C today, and I'm out harvesting chili peppers under the summer sun. Just another day of farm life! 🌶️",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794028010/20260808_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794027913/20260808.mp4"
+    ]
+  },
+
+  {
     "id": "2026-08-01",
     "date": "01 Aug 2026",
-    "title": "Hot Summer Day",
+    "title": "39°C and Still Growing!",
+    "message": "39°C today! It's incredibly hot, but seeing everything growing so beautifully makes me happy. 😄",
     "category": "farm-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792397159/20260801_Cover.jpg",
     "photos": [
@@ -225,7 +262,8 @@
   {
     "id": "2026-07-31",
     "date": "31 Jul 2026",
-    "title": "Mountain Walk with My Dog",
+    "title": "An Evening Walk with Xingxing",
+    "message": "A little evening walk in the mountains with Xingxing after work. It reached 39°C in Korea today — what crazy weather! Let's all stay cool and take good care of ourselves. ☀️",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150357/20260731_cover.jpg",
     "photos": [
@@ -236,7 +274,8 @@
   {
     "id": "2026-07-18",
     "date": "18 Jul 2026",
-    "title": "Special Kimchi",
+    "title": "A Special Homemade Kimchi",
+    "message": "Made a special batch of chili water kimchi this time! 🤗🤟 All the ingredients were grown by Dad. Now it's time to let it ferment for a few days before enjoying it. Can't wait! 👍",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792396903/20260718_cover.jpg",
     "photos": [
@@ -255,7 +294,8 @@
   {
     "id": "2026-06-28",
     "date": "28 June 2026",
-    "title": "Harvest Potato in Hot Summer Day",
+    "title": "A Potato Harvest on a Hot Summer Day",
+    "message": "Potato harvest day! It was 32°C today, and quite a sweaty job, but seeing such lovely, healthy potatoes makes it all worthwhile. 🥔😜",
     "category": "farm-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792396601/20260628_cover.jpg",
     "photos": [
@@ -274,7 +314,8 @@
   {
     "id": "2026-06-13",
     "date": "13 June 2026",
-    "title": "Harvest Onion and Garlic",
+    "title": "Harvesting Onions & Garlic",
+    "message": "It's been a hot summer, but everything has been growing beautifully! Harvested some onions and garlic today. Thanks to Dad's loving care, the crops have turned out wonderfully. The heat makes the work tough, but the joy of harvesting makes it all worthwhile. 🧅🧄",
     "category": "farm-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792396236/20260613_cover.jpg",
     "photos": [
@@ -294,6 +335,7 @@
     "id": "2026-05-31",
     "date": "31 May 2026",
     "title": "The Cubists",
+    "message": "A special preview at the new art museum created through a collaboration between Hanwha Group and the Centre Pompidou. It was a pleasure to see such remarkable works, including pieces by Picasso and other early 20th-century masters. Artworks once only seen in France are now here in Korea. A truly wonderful day reconnecting with art.",
     "category": "art-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792329907/20260531_cover.jpg",
     "photos": [
@@ -312,7 +354,8 @@
   {
     "id": "2026-05-10",
     "date": "10 May 2026",
-    "title": "My Hot Pepper Garden",
+    "title": "My Little Chili Pepper Garden",
+    "message": "Planted some chili peppers today! Hoping they'll grow strong and healthy and bring a wonderful harvest. 🌶️🤟🙏",
     "category": "farm-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793096238/20260510_cover.jpg",
     "photos": [
@@ -330,7 +373,8 @@
   {
     "id": "2026-04-29",
     "date": "29 Apr 2026",
-    "title": "Sweet Dreams, Stars!",
+    "title": "Sweet Dreams, Little Star",
+    "message": "Sleep tight, sleep tight, our little star. 🌟🎶 So peaceful and sweet, dreaming away. ❤️",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793150138/20260429_cover.jpg",
     "photos": [
@@ -339,9 +383,74 @@
   },
 
   {
+    "id": "2026-04-18",
+    "date": "18 Apr 2026",
+    "title": "Back to the Farm!",
+    "message": "It feels like spring has barely arrived before summer is already here! Farm work is picking up again. Tending to the newly planted vegetables and harvesting spring onions. Looking forward to making delicious Korean green onion kimchi with the fresh harvest! It's hot out there, but the work goes on. 🌞🧄🧅🌶",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794028855/20260418_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028855/20260418_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794028921/20260418_8.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-03-21",
+    "date": "21 Mar 2026",
+    "title": "This Year's First Potato Planting",
+    "message": "The first potatoes of the year are in the ground! Hoping everything grows well and brings another wonderful harvest this year. 🥔🌱",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793534781/20260321_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534781/20260321_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793534782/20260321_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2026-01-12",
+    "date": "12 Jan 2026",
+    "title": "Let It Snow!",
+    "message": "It's snowing! ❄️ Everything feels a little more magical.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794030074/20260112_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793535832/20260112.mp4"
+    ]
+  },
+
+  {
+    "id": "2026-01-07",
+    "date": "07 Jan 2026",
+    "title": "Here Comes Xingxing!",
+    "message": "Xingxing~~~",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794030373/20260107_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793535801/20260107.mp4"
+    ]
+  },
+
+  {
     "id": "2025-12-22",
     "date": "22 Dec 2025",
     "title": "Supporting an Old Friend’s Charity Event",
+    "message": "With the year coming to an end, there are so many events happening everywhere. I don't usually attend many, but this time I made an exception for an old friend's charity event. We've known each other for over 20 years, and this event has been helping people for more than a decade. I hope it continues to make a difference in more lives. Time for me to head home!",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793104238/20251222.jpg",
     "photos": [
@@ -353,6 +462,7 @@
     "id": "2025-12-16",
     "date": "16 Dec 2025",
     "title": "First Date",
+    "message": "",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1792395215/CMFY3990.jpg",
     "photos": [
@@ -366,9 +476,233 @@
   },
 
   {
+    "id": "2025-12-12",
+    "date": "12 Dec 2025",
+    "title": "A Small Act of Kindness",
+    "message": "Donated blood today. A small act that could make a big difference in someone's life. ❤️",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794030805/20251212_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794030807/20251212.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-12-06",
+    "date": "06 Dec 2025",
+    "title": "Healthy, Low-Salt Kimchi Is Ready!",
+    "message": "Finally, it's ready! This batch of winter kimchi was made with less salt and will slowly ferment to develop its rich flavour. Looking forward to enjoying it all the way through next summer. Healthy and delicious! 🥬",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793535298/20251206_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794030908/Video.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-12-05",
+    "date": "05 Dec 2025",
+    "title": "Winter Kimchi Making Begins!",
+    "message": "Winter kimchi season (Kimjang) has officially begun! Today was all about preparing the ingredients and seasoning paste. So much work already, and I'm exhausted! 😅🥬",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_9.jpg",
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1793891055/20251205_video.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-11-19",
+    "date": "19 Nov 2025",
+    "title": "Waiting for Mom",
+    "message": "Waiting for Mom to come home from the care facility. ❤️",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794031588/20251119_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794031605/20251119.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-11-16",
+    "date": "16 Nov 2025",
+    "title": "Getting Ready for Kimjang",
+    "message": "Winter is just around the corner, which means it's time to prepare for Kimjang! Checked on the napa cabbage and radishes today, and harvested some spring onions for the upcoming kimchi-making season. 🥬",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794032070/20251116_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794032072/20251116.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-11-05",
+    "date": "05 Nov 2025",
+    "title": "A Little Taste of Autumn",
+    "message": "Taking in the beauty of autumn, one little moment at a time. 🍂🍁",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794032454/20251105_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794032457/20251105.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-11-02",
+    "date": "02 Nov 2025",
+    "title": "Carrot Kimchi",
+    "message": "Made kimchi with the little radishes harvested yesterday! With some seasoning paste left over, I also turned the remaining vegetables in the fridge into kimchi. In Korea, every vegetable brings its own unique flavour to kimchi. 🥕",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794032633/20251102_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032633/20251102_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794032640/20251102_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-11-01",
+    "date": "01 Nov 2025",
+    "title": "Autumn's Little Harvest",
+    "message": "Autumn is slowly coming to an end. Today, we harvested some little radishes. I'm looking forward to making homemade radish kimchi when I get home.",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794033187/20251101_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033187/20251101_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033127/20251101_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-10-28",
+    "date": "28 Oct 2025",
+    "title": "Sweet & Healthy Comfort",
+    "message": "The weather is getting cooler, so I made a comforting bowl of pumpkin and sweet potato porridge to nourish the body. Naturally sweet, soft, and warm — absolutely delicious!",
+    "category": "cooking-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794033388/20251028_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033388/20251028_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033400/20251028_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-10-27",
+    "date": "27 Oct 2025",
+    "title": "Little Moments of Happiness",
+    "message": "Almost without noticing, winter seems to have arrived. Lately, I haven't really thought much about getting older. I always felt that time was simply passing by, but today, it suddenly hit me just how much I've grown older. Rather than dwelling on the life I've lived or worrying about the days yet to come, I want to cherish the present. I want to make each day meaningful and live it to the fullest. After all, little moments of happiness, gathered one by one, eventually come together to create a much greater happiness.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794033798/20251027_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033798/20251027_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033804/20251027_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033804/20251027_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794033804/20251027_4.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-10-19",
+    "date": "19 Oct 2025",
+    "title": "The Temperature Is Dropping",
+    "message": "The hot summer has passed, and the abundant season of autumn has arrived. Temperatures in Korea are starting to drop, too. Everyone, stay warm and take care not to catch a cold!",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794034091/20251019_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034091/20251019_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034088/20251019_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-09-14",
+    "date": "14 Sep 2025",
+    "title": "A Bountiful Harvest",
+    "message": "The fields have turned into a beautiful sea of crops. This year's dry-field harvest has been plentiful. Now, I hope the cabbages and radishes will grow well, too. Looking forward to another wonderful harvest!",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794034437/20250914_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034437/20250914_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034338/20250914_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-09-12",
+    "date": "12 Sep 2025",
+    "title": "A Day of Photography & Sharing",
+    "message": "I wrapped up work a little early today and headed to Gimpo City for a photography exhibition hosted by Gimpo City and the Tongil Foundation. I had the opportunity to evaluate the photographs and give a talk about photography. It had been quite a while since I last did something like this. Thankfully, the attendees responded warmly, which made the experience all the more rewarding.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794034911/20250912_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034911/20250912_Cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794034838/20250912_7.jpg"
+    ]
+  },
+
+  {
     "id": "2025-08-31",
     "date": "31 Aug 2025",
-    "title": "Basketball Time with My Dog",
+    "title": "Basketball Time with Xing Xing",
+    "message": "Basketball time with Xing Xing! 🏀🐶",
     "category": "daily-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793103743/20250831_cover.jpg",
     "photos": [
@@ -377,9 +711,114 @@
   },
 
   {
+    "id": "2025-08-30",
+    "date": "30 Aug 2025",
+    "title": "Summer Heat & Eggplants",
+    "message": "The hot summer days are still going strong~~~ Another scorching hot day today!",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035082/20250830_5.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-08-22",
+    "date": "22 Aug 2025",
+    "title": "A Little Gift of Life",
+    "message": "Donated blood today! 🩸 I hope my small contribution can help someone who needs a blood transfusion. Blood donation can also be beneficial to my own health. It feels wonderful to do something meaningful for others. Heading home after work with a happy heart~~",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794035366/20250822_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035366/20250822_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035366/20250822_1.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-08-16",
+    "date": "16 Aug 2025",
+    "title": "My Father's Farm",
+    "message": "After several days of heavy rain, the hot weather is back. It's scorching hot~~~ The crops on the farm are growing strong and healthy despite the heat. It seems that even Korea is gradually shifting towards a subtropical climate.",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794035640/20250816_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794035646/20250816.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-08-10",
+    "date": "10 Aug 2025",
+    "title": "Forever in Our Hearts, Ding Dong",
+    "message": "Ding Dong has passed away...Thank you for being by my side for more than ten years. Saying goodbye to you is simply heartbreaking. My heart aches so much...Thank you for keeping my father company and watching over him during this time. You were, and always will be, a precious member of our family. Our bright, gentle, and kind-hearted Ding Dong... I pray that you are happy and at peace in heaven, just as you always were here with us. I love you, Ding Dong. Forever and always. ❤️",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794035920/20250810_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035920/20250810_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_2.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_8.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794035934/20250810_9.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-07-26",
+    "date": "26 Jul 2025",
+    "title": "Finding Peace by the Waterfall",
+    "message": "It's incredibly hot these days~~~~ But here I am, meditating at my favorite peaceful retreat during the summer. The cool waterfall and the beauty of nature make it the perfect place to relax and find some inner peace.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794035938/20250726_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794035945/20250726.mp4"
+    ]
+  },
+
+  {
+    "id": "2025-07-20",
+    "date": "20 Jul 2025",
+    "title": "The Crops Are Growing Well",
+    "message": "South Korea has experienced heavy rainfall over the past few days, causing serious damage in many areas. Thankfully, there wasn't too much rain around my home and the farm. Now that the rain has stopped, the hot weather is back again. The crops are growing rapidly, reaching for the sky!",
+    "category": "farm-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793891053/20251205_Cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_cover.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_1.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_3.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_4.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_5.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_6.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_7.jpg",
+      "https://res.cloudinary.com/brtweu9w/image/upload/v1794036795/20250720_8.jpg"
+    ]
+  },
+
+  {
+    "id": "2025-07-13",
+    "date": "13 Jul 2025",
+    "title": "A Lovely Day with Ding Dong",
+    "message": "Ding Dong~~~ It's not too hot today. What a lovely day! So nice to enjoy this pleasant weather together.",
+    "category": "daily-life",
+    "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1794036947/20250713_cover.jpg",
+    "photos": [
+      "https://res.cloudinary.com/brtweu9w/video/upload/v1794036953/20250713.mp4"
+    ]
+  },
+
+  {
     "id": "2025-05-11",
     "date": "11 May 2025",
     "title": "My Homemade Cucumber Kimchi",
+    "message": "",
     "category": "cooking-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793095874/20250511_cover.jpg",
     "photos": [
@@ -399,6 +838,7 @@
     "id": "2022-05-30",
     "date": "30 May 2022",
     "title": "My Giant Seed Painting",
+    "message": "",
     "category": "art-life",
     "cover": "https://res.cloudinary.com/brtweu9w/image/upload/v1793095332/20220530_cover.jpg",
     "photos": [
