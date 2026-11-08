@@ -22,15 +22,19 @@ async function getPostDetail() {
 
     const heroTitle = document.querySelector(".post-hero h1");
     heroTitle.textContent = currentPost.title;
+    document.title = currentPost.title + " | Tony Shin";
 
     const postMessage = document.createElement("p");
     postMessage.classList.add("message");
-    postMessage.textContent = currentPost.message;
+    if (currentPost.message) {
+      postMessage.textContent = currentPost.message;
+      postContainer.appendChild(postMessage);
+    }
 
     const postDate = document.createElement("p");
     postDate.textContent = currentPost.date;
+    postDate.classList.add("post-date");
 
-    postContainer.appendChild(postMessage);
     postContainer.appendChild(postDate);
 
     const photoGallery = document.createElement("div");

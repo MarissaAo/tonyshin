@@ -373,10 +373,19 @@ ul {
   display: flex;
   justify-content: center;
 }
+.kimchi-cta,
+.kimchi-btn {
+  transition:
+    width 0.3s ease,
+    padding 0.3s ease,
+    font-size 0.3s ease,
+    transform 0.3s ease;
+}
 
 .kimchi-cta {
   position: relative;
   width: min(600px, 90%);
+  text-decoration: none;
 }
 
 .banner img {
@@ -401,6 +410,7 @@ ul {
   white-space: nowrap;
   clip-path: polygon(0 0, 85% 0, 100% 50%, 85% 100%, 0 100%);
   border-radius: 5px;
+  text-transform: uppercase;
 }
 
 /* #endregion banner */
@@ -508,6 +518,36 @@ footer .copy-right {
 /* #endregion footer section */
 
 /* #region media query */
+
+@media (max-width: 1000px) {
+  /* #region banner*/
+  .kimchi-cta {
+    margin-bottom: 20px;
+  }
+
+  .banner img {
+    margin-bottom: 0;
+  }
+
+  .kimchi-btn {
+    position: static;
+    transform: none;
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    text-align: center;
+    background-color: var(--kimchi-red);
+    opacity: 100%;
+    color: #fff;
+    font-weight: 400;
+    padding: 10px 10px;
+    white-space: nowrap;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 100% 100%, 0 100%);
+    border-radius: 5px;
+    font-size: 0.8rem;
+  }
+  /* #endregion banner */
+}
 
 @media (max-width: 768px) {
   .menu-toggle {

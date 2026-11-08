@@ -7,7 +7,7 @@
 .post-hero {
   width: 80%;
   margin: 0 auto;
-  min-height: 100px;
+  min-height: 180px;
   padding: 0;
 }
 
@@ -34,12 +34,8 @@
   white-space: pre-line;
 }
 
-#post-detail p {
+.post-date {
   font-size: medium;
-  text-align: center;
-  color: var(--text-color);
-  margin: 10px 0 20px 0;
-  padding: 0;
 }
 
 .photo-gallery {
@@ -47,11 +43,11 @@
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(3, 1fr);
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .photo-gallery img,
-video {
+.photo-gallery video {
   width: 100%;
   display: block;
   aspect-ratio: 1/1;
@@ -59,15 +55,11 @@ video {
   border-radius: 5px;
 }
 
-.post {
-  margin-bottom: 20px;
-}
-
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
   .photo-gallery {
     grid-template-columns: repeat(2, 1fr);
   }
-}
+} */
 
 @media (max-width: 768px) {
   .photo-gallery {
