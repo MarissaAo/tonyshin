@@ -1,0 +1,13 @@
+#title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.second-part {
+  background-color: rgb(250, 246, 241);
+}
+
+.about img {
+  width: min(200px, 80%);
+  border-radius: 50%;
+}
