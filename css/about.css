@@ -3,11 +3,65 @@
   text-decoration: none;
 }
 
-.second-part {
-  background-color: rgb(250, 246, 241);
+.about-general,
+.about-brand {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 80px 20px;
 }
 
-.about img {
-  width: min(200px, 80%);
-  border-radius: 50%;
+.about-photo,
+.about-chef-photo {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+figure img {
+  width: min(300px, 80%);
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+h1.about-name,
+h2.about-name {
+  font-family: var(--font-family-brand);
+}
+
+h2.about-name {
+  color: var(--kimchi-red);
+  text-transform: uppercase;
+}
+
+.about-tonyuncle {
+  margin-left: 20%;
+}
+
+.about-tony {
+  margin-right: 20%;
+}
+
+.practices {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  color: var(--text-color);
+}
+
+.btn-frames {
+  background-color: var(--yellow-theme);
+  border-radius: 5px;
+  text-decoration: none;
+  color: inherit;
+  padding: 10px 20px;
+}
+
+.btn-kimchi {
+  background-color: var(--kimchi-red);
+  padding: 10px 30px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
 }
