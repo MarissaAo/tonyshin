@@ -61,6 +61,11 @@ header {
   position: relative;
 }
 
+#title a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .menu-toggle {
   display: none;
   width: 25px;

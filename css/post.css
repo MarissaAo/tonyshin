@@ -4,6 +4,18 @@
   color: inherit;
 }
 
+.photo-gallery:has(img:only-child),
+.photo-gallery:has(video:only-child) {
+  display: flex;
+  justify-content: center;
+}
+
+.photo-gallery:has(img:only-child) img,
+.photo-gallery:has(video:only-child) video {
+  width: min(500px, 90%);
+  height: auto;
+}
+
 .post-hero {
   width: 80%;
   margin: 0 auto;
