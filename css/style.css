@@ -193,7 +193,7 @@ ul {
 .navbar-link.active a,
 .menu-link.active a {
   text-decoration: underline;
-  text-decoration-color: #ffe169;
+  text-decoration-color: var(--yellow-theme);
   text-underline-offset: 6px;
   text-decoration-thickness: 6px;
 }
