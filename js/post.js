@@ -13,6 +13,13 @@ function applyPostTitle() {
   document.title = title + " | Tony Shin";
 }
 
+function applyPostMessage() {
+  if (!currentPost) return;
+  const postMessage = document.querySelector(".message");
+  if (!postMessage) return;
+  postMessage.textContent = getPostMessage(currentPost);
+}
+
 async function getPostDetail() {
   try {
     const res = await fetch("/data/posts.json");
@@ -28,7 +35,6 @@ async function getPostDetail() {
       const errorMessage = document.createElement("h2");
       errorMessage.textContent = "Sorry! This post was not found.";
       postContainer.appendChild(errorMessage);
-
       return;
     }
 
@@ -37,27 +43,25 @@ async function getPostDetail() {
     const postMessage = document.createElement("p");
     postMessage.classList.add("message");
     if (currentPost.message) {
-      postMessage.textContent = currentPost.message;
+      postMessage.textContent = getPostMessage(currentPost);
       postContainer.appendChild(postMessage);
     }
 
     const postDate = document.createElement("p");
     postDate.textContent = currentPost.date;
     postDate.classList.add("post-date");
-
     postContainer.appendChild(postDate);
 
     const photoGallery = document.createElement("div");
     photoGallery.classList.add("photo-gallery");
-
     postContainer.appendChild(photoGallery);
 
     currentPost.photos.forEach(function (photo) {
       if (photo.includes(".mp4")) {
         const video = document.createElement("video");
         video.setAttribute("src", photo);
-        video.setAttribute("controls", ""); // show play button
-        video.setAttribute("playsinline", ""); // better on phones
+        video.setAttribute("controls", "");
+        video.setAttribute("playsinline", "");
         photoGallery.appendChild(video);
       } else {
         const img = document.createElement("img");

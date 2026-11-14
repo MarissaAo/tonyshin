@@ -11,6 +11,16 @@ function getPostTitle(post) {
   return post.title;
 }
 
+function getPostMessage(post) {
+  if (currentLang === "zh-TW") {
+    return post.messageZh || post.message;
+  }
+  if (currentLang === "ko") {
+    return post.messageKo || post.message;
+  }
+  return post.message;
+}
+
 async function initI18n() {
   const res = await fetch("/data/ui.json");
   ui = await res.json();
@@ -33,6 +43,18 @@ function applyTranslations(lang) {
     if (text) element.placeholder = text;
   });
   document.documentElement.lang = lang;
+
+  if (typeof applyFilters === "function") {
+    applyFilters();
+  }
+
+  if (typeof applyPostTitle === "function") {
+    applyPostTitle();
+  }
+
+  if (typeof applyPostMessage === "function") {
+    applyPostMessage();
+  }
 }
 
 const langLinks = document.querySelectorAll(".lang-link");
@@ -49,14 +71,6 @@ langLinks.forEach((link) => {
     if (lang) {
       localStorage.setItem("lang", lang);
       applyTranslations(lang);
-    }
-
-    if (typeof applyFilters === "function") {
-      applyFilters();
-    }
-
-    if (typeof applyPostTitle === "function") {
-      applyPostTitle();
     }
   });
 });
