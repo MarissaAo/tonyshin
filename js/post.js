@@ -1,12 +1,24 @@
 const params = new URLSearchParams(window.location.search);
 const postId = params.get("id");
 
+let currentPost = null;
+
+function applyPostTitle() {
+  if (!currentPost) return;
+  const title = getPostTitle(currentPost);
+  const heroTitle = document.querySelector(".post-hero h1");
+  if (heroTitle) {
+    heroTitle.textContent = title;
+  }
+  document.title = title + " | Tony Shin";
+}
+
 async function getPostDetail() {
   try {
     const res = await fetch("/data/posts.json");
     const posts = await res.json();
 
-    const currentPost = posts.find(function (post) {
+    currentPost = posts.find(function (post) {
       return post.id === postId;
     });
 
@@ -20,12 +32,7 @@ async function getPostDetail() {
       return;
     }
 
-    const heroTitle = document.querySelector(".post-hero h1");
-    // heroTitle.textContent = currentPost.title;
-    // document.title = currentPost.title + " | Tony Shin";
-    const title = getPostTitle(currentPost);
-    heroTitle.textContent = title;
-    document.title = title + " | Tony Shin";
+    applyPostTitle();
 
     const postMessage = document.createElement("p");
     postMessage.classList.add("message");

@@ -54,6 +54,10 @@ langLinks.forEach((link) => {
     if (typeof applyFilters === "function") {
       applyFilters();
     }
+
+    if (typeof applyPostTitle === "function") {
+      applyPostTitle();
+    }
   });
 });
 
