@@ -1,6 +1,16 @@
 let ui = {};
 let currentLang = localStorage.getItem("lang") || "en";
 
+function getPostTitle(post) {
+  if (currentLang === "zh-TW") {
+    return post.titleZh || post.title;
+  }
+  if (currentLang === "ko") {
+    return post.titleKo || post.title;
+  }
+  return post.title;
+}
+
 async function initI18n() {
   const res = await fetch("/data/ui.json");
   ui = await res.json();
@@ -8,6 +18,7 @@ async function initI18n() {
 }
 
 function applyTranslations(lang) {
+  currentLang = lang;
   const elements = document.querySelectorAll("[data-i18n]");
   elements.forEach((element) => {
     const key = element.getAttribute("data-i18n");
@@ -38,6 +49,10 @@ langLinks.forEach((link) => {
     if (lang) {
       localStorage.setItem("lang", lang);
       applyTranslations(lang);
+    }
+
+    if (typeof applyFilters === "function") {
+      applyFilters();
     }
   });
 });

@@ -21,8 +21,11 @@ async function getPostDetail() {
     }
 
     const heroTitle = document.querySelector(".post-hero h1");
-    heroTitle.textContent = currentPost.title;
-    document.title = currentPost.title + " | Tony Shin";
+    // heroTitle.textContent = currentPost.title;
+    // document.title = currentPost.title + " | Tony Shin";
+    const title = getPostTitle(currentPost);
+    heroTitle.textContent = title;
+    document.title = title + " | Tony Shin";
 
     const postMessage = document.createElement("p");
     postMessage.classList.add("message");

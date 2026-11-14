@@ -28,7 +28,7 @@ function renderGrid(postList, container) {
 
     const img = document.createElement("img");
     img.setAttribute("src", post.cover);
-    img.setAttribute("alt", post.title);
+    img.setAttribute("alt", getPostTitle(post));
 
     const date = document.createElement("div");
     date.classList.add("date");
@@ -36,7 +36,7 @@ function renderGrid(postList, container) {
 
     const subject = document.createElement("div");
     subject.classList.add("subject");
-    subject.textContent = post.title;
+    subject.textContent = getPostTitle(post);
 
     container.appendChild(div);
     div.appendChild(link);
