@@ -17,9 +17,9 @@
         <h2 id="title"><a href="/content/index.html">Tony Shin</a></h2>
         <nav id="navbar">
             <ul class="nav-links">
-                <li class="navbar-link active"><a href="#">Home</a></li>
-                <li class="navbar-link"><a href="/content/about.html">About</a></li>
-                <li class="navbar-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="navbar-link active"><a href="#" data-i18n="nav.home">Home</a></li>
+                <li class="navbar-link"><a href="/content/about.html" data-i18n="nav.about">About</a></li>
+                <li class="navbar-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="lang">
                 <li class="lang-link"><a href="#">ENG</a></li>
@@ -35,9 +35,9 @@
         </button>
         <div class="menu">
             <ul class="menu-links">
-                <li class="menu-link active"><a href="/content/index.html">Home</a></li>
-                <li class="menu-link"><a href="/content/about.html">About</a></li>
-                <li class="menu-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="menu-link active"><a href="/content/index.html" data-i18n="nav.home">Home</a></li>
+                <li class="menu-link"><a href="/content/about.html" data-i18n="nav.about">About</a></li>
+                <li class="menu-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="menu-lang">
                 <li class="lang-link"><a href="#">ENG</a></li>
@@ -48,19 +48,21 @@
     </header>
 
     <section class="hero">
-        <h1 class="animation active">Day In Frame</h1>
-        <p>Life is beautiful</p>
+        <h1 class="animation active" data-i18n="hero.title">Day In Frame</h1>
+        <p data-i18n="hero.tagline">Life is beautiful</p>
     </section>
 
     <section class="filters">
-        <input type="search" id="search-input" placeholder="Search posts..." />
+        <input type="search" id="search-input" data-i18n-placeholder="search.placeholder"
+            placeholder="Search posts..." />
 
         <div class="filter-buttons">
-            <button type="button" class="filter-btn active" data-category="all">All</button>
-            <button type="button" class="filter-btn" data-category="cooking-life">Cooking</button>
-            <button type="button" class="filter-btn" data-category="farm-life">Farm</button>
-            <button type="button" class="filter-btn" data-category="art-life">Art</button>
-            <button type="button" class="filter-btn" data-category="daily-life">Daily</button>
+            <button type="button" class="filter-btn active" data-category="all" data-i18n="filter.all">All</button>
+            <button type="button" class="filter-btn" data-category="cooking-life"
+                data-i18n="filter.cooking">Cooking</button>
+            <button type="button" class="filter-btn" data-category="farm-life" data-i18n="filter.farm">Farm</button>
+            <button type="button" class="filter-btn" data-category="art-life" data-i18n="filter.art">Art</button>
+            <button type="button" class="filter-btn" data-category="daily-life" data-i18n="filter.daily">Daily</button>
 
         </div>
     </section>
@@ -78,22 +80,24 @@
     <section class="old-post">
     </section>
 
-    <button type="button" class="show-more">Show more</button>
-    <button type="button" class="show-less">Show less</button>
+    <button type="button" class="show-more" data-i18n="btn.showMore">Show more</button>
+    <button type="button" class="show-less" data-i18n="btn.showLess">Show less</button>
 
     <section class="banner">
         <a class="kimchi-cta" href="#">
             <img src="https://res.cloudinary.com/brtweu9w/image/upload/v1793157450/5.jpg"
                 alt="Born from love of kimchi">
-            <span class="kimchi-btn">Kimchi Site →</span>
+            <span class="kimchi-btn" data-i18n="btn.kimchiSite">Kimchi Site →</span>
         </a>
     </section>
 
     <footer>
         <p class="brand">Tony Shin</p>
-        <p class="copy-right">&copy; 2026 Tony Shin. All rights reserved.</p>
+        <p class="copy-right" data-i18n="footer.copyright">&copy; 2026 Tony Shin. All rights reserved.</p>
     </footer>
+    <script src="/js/i18n.js"></script>
     <script src="/js/index.js"></script>
+
 </body>
 
 </html>

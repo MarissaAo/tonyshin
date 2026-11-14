@@ -15,9 +15,9 @@
         <h2 id="title"><a href="/content/index.html">Tony Shin</a></h2>
         <nav id="navbar">
             <ul class="nav-links">
-                <li class="navbar-link"><a href="/content/index.html">Home</a></li>
-                <li class="navbar-link active"><a href="/content/about.html">About</a></li>
-                <li class="navbar-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="navbar-link"><a href="/content/index.html" data-i18n="nav.home">Home</a></li>
+                <li class="navbar-link active"><a href="/content/about.html" data-i18n="nav.about">About</a></li>
+                <li class="navbar-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="lang">
                 <li class="lang-link"><a href="#">ENG</a></li>
@@ -33,9 +33,9 @@
         </button>
         <div class="menu">
             <ul class="menu-links">
-                <li class="menu-link"><a href="/content/index.html">Home</a></li>
-                <li class="menu-link active"><a href="/content/about.html">About</a></li>
-                <li class="menu-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="menu-link"><a href="/content/index.html" data-i18n="nav.home">Home</a></li>
+                <li class="menu-link active"><a href="/content/about.html" data-i18n="nav.about">About</a></li>
+                <li class="menu-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="menu-lang">
                 <li class="lang-link"><a href="#">ENG</a></li>
@@ -52,8 +52,8 @@
             </figure>
 
             <div class="about-tony">
-                <h1 class="about-name">Tony Shin</h1>
-                <h3 class="subheading">Entrepreneur | Chef | Artist </h3>
+                <h1 class="about-name" data-i18n="about.title">Tony Shin</h1>
+                <h3 class="subheading" data-i18n="about.role">Entrepreneur | Chef | Artist </h3>
                 <p class="about-bio">
                     Tony Shin is an exhibition design specialist and photographer who has travelled across more than 50
                     countries, capturing the beauty of the world through his lens and discovering inspiration in
@@ -81,19 +81,19 @@
                 <p class="about-bio">Each frame is chosen with care. The work is not a stream of snapshots, but a record
                     of how ordinary life looks when someone stays long enough to see it.</p>
                 <ul class="practices">
-                    <li>Cooking</li>
-                    <li>Farm</li>
-                    <li>Art</li>
-                    <li>Daily</li>
+                    <li data-i18n="filter.cooking">Cooking</li>
+                    <li data-i18n="filter.farm">Farm</li>
+                    <li data-i18n="filter.art">Art</li>
+                    <li data-i18n="filter.daily">Daily</li>
                 </ul>
-                <a class="btn-frames" href="/content/index.html">View Frames</a>
+                <a class="btn-frames" href="/content/index.html" data-i18n="btn.viewFrames">View Frames</a>
             </div>
         </section>
 
         <section class="about-brand">
             <div class="about-tonyuncle">
-                <h2 class="about-name">Tony Uncle Kimchi</h2>
-                <h3 class="subheading">Sharing Healthy K-kimchi</h3>
+                <h2 class="about-name" data-i18n="about.brand">Tony Uncle Kimchi</h2>
+                <h3 class="subheading" data-i18n="about.kimchiHeading">Sharing Healthy K-kimchi</h3>
                 <p class="about-bio">Rooted in Korean tradition and inspired by a mother's homemade recipes, Tony Uncle
                     Kimchi was born from a lifelong love of authentic Korean kimchi.</p>
                 <p class="about-bio">
@@ -111,7 +111,7 @@
                     generation.
                 </p>
 
-                <a class="btn-kimchi" href="#">Kimchi Site</a>
+                <a class="btn-kimchi" href="#" data-i18n="about.kimchiName">Kimchi Site</a>
             </div>
             <figure class="about-chef-photo">
                 <img src="/assets/image/Tony/tony-chief.jpg" alt="Illustrated portrait of Tony Shin as a chef">
@@ -129,8 +129,9 @@
 
     <footer>
         <p class="brand">Tony Shin</p>
-        <p class="copy-right">&copy; 2026 Tony Shin. All rights reserved.</p>
+        <p class="copy-right" data-i18n="footer.copyright">&copy; 2026 Tony Shin. All rights reserved.</p>
     </footer>
+    <script src="/js/i18n.js"></script>
     <script src="/js/about.js"></script>
 </body>
 

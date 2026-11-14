@@ -1,0 +1,45 @@
+let ui = {};
+let currentLang = localStorage.getItem("lang") || "en";
+
+async function initI18n() {
+  const res = await fetch("/data/ui.json");
+  ui = await res.json();
+  applyTranslations(currentLang);
+}
+
+function applyTranslations(lang) {
+  const elements = document.querySelectorAll("[data-i18n]");
+  elements.forEach((element) => {
+    const key = element.getAttribute("data-i18n");
+    const text = ui[lang] && ui[lang][key];
+    if (text) element.textContent = text;
+  });
+
+  const placeholders = document.querySelectorAll("[data-i18n-placeholder]");
+  placeholders.forEach((element) => {
+    const key = element.getAttribute("data-i18n-placeholder");
+    const text = ui[lang] && ui[lang][key];
+    if (text) element.placeholder = text;
+  });
+  document.documentElement.lang = lang;
+}
+
+const langLinks = document.querySelectorAll(".lang-link");
+langLinks.forEach((link) => {
+  link.addEventListener("click", function (event) {
+    event.preventDefault();
+    const label = link.textContent.trim();
+    const langMap = {
+      ENG: "en",
+      中: "zh-TW",
+      한: "ko",
+    };
+    const lang = langMap[label];
+    if (lang) {
+      localStorage.setItem("lang", lang);
+      applyTranslations(lang);
+    }
+  });
+});
+
+initI18n();

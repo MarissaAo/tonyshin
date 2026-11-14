@@ -79,6 +79,10 @@ h2.about-name {
   color: white;
 }
 
+.about-chef-photo img {
+  border-radius: 50%;
+}
+
 @media (max-width: 768px) {
   .about-general,
   .about-brand {

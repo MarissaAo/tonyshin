@@ -14,14 +14,14 @@
         <h2 id="title"><a href="/content/index.html">Tony Shin</a></h2>
         <nav id="navbar">
             <ul class="nav-links">
-                <li class="navbar-link"><a href="./index.html">Home</a></li>
-                <li class="navbar-link"><a href="./about.html">About</a></li>
-                <li class="navbar-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="navbar-link"><a href="./index.html" data-i18n="nav.home">Home</a></li>
+                <li class="navbar-link"><a href="./about.html" data-i18n="nav.about">About</a></li>
+                <li class="navbar-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="lang">
-                <li class="lang-link"><a href="#">ENG</a></li>
-                <li class="lang-link"><a href="#">中</a></li>
-                <li class="lang-link"><a href="#">한</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.home">ENG</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.about">中</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.kimchi">한</a></li>
             </ul>
         </nav>
 
@@ -32,14 +32,14 @@
         </button>
         <div class="menu">
             <ul class="menu-links">
-                <li class="menu-link"><a href="./index.html">Home</a></li>
-                <li class="menu-link"><a href="#">About</a></li>
-                <li class="menu-link kimchi"><a href="#">Kimchi</a></li>
+                <li class="menu-link"><a href="./index.html" data-i18n="nav.home">Home</a></li>
+                <li class="menu-link"><a href="#" data-i18n="nav.about">About</a></li>
+                <li class="menu-link kimchi"><a href="#" data-i18n="nav.kimchi">Kimchi</a></li>
             </ul>
             <ul class="menu-lang">
-                <li class="lang-link"><a href="#">ENG</a></li>
-                <li class="lang-link"><a href="#">中</a></li>
-                <li class="lang-link"><a href="#">한</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.home">ENG</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.about">中</a></li>
+                <li class="lang-link"><a href="#" data-i18n="nav.kimchi">한</a></li>
             </ul>
         </div>
     </header>
@@ -56,14 +56,15 @@
         <a class="kimchi-cta" href="#">
             <img src="https://res.cloudinary.com/brtweu9w/image/upload/v1793157450/5.jpg"
                 alt="Born from love of kimchi">
-            <span class="kimchi-btn">Kimchi Site →</span>
+            <span class="kimchi-btn" data-i18n="btn.kimchiSite">Kimchi Site →</span>
         </a>
     </section>
 
     <footer>
         <p class="brand">Tony Shin</p>
-        <p class="copy-right">&copy; 2026 Tony Shin. All rights reserved.</p>
+        <p class="copy-right" data-i18n="footer.copyright">&copy; 2026 Tony Shin. All rights reserved.</p>
     </footer>
+    <script src="/js/i18n.js"></script>
     <script src="/js/post.js"></script>
 </body>
 
